@@ -1,0 +1,7005 @@
+challenge_hash = "0b26e196b9f5869cba164a2e0226db75e954d375782db8412ee864c22cb0f69e"
+min_call_rate = "0.966000"
+min_heterozygosity_rate = "0.325052"
+ti_tv_ratio = "4.924528"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "82154"
+rsid = "rs4477212"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "752721"
+rsid = "rs3131972"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "768448"
+rsid = "rs12562034"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "798959"
+rsid = "rs11240777"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "800007"
+rsid = "rs6681049"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "838555"
+rsid = "rs4970383"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "846808"
+rsid = "rs4475691"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "854250"
+rsid = "rs7537756"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "861808"
+rsid = "rs13302982"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "873558"
+rsid = "rs1110052"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "887162"
+rsid = "rs17160698"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "888659"
+rsid = "rs3748597"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "891945"
+rsid = "rs13303106"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "893981"
+rsid = "rs28415373"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "894573"
+rsid = "rs13303010"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "903104"
+rsid = "rs6696281"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "904165"
+rsid = "rs28391282"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "910935"
+rsid = "rs2340592"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "918384"
+rsid = "rs13303118"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "918573"
+rsid = "rs2341354"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "924898"
+rsid = "rs6665000"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "927309"
+rsid = "rs2341362"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "928836"
+rsid = "rs9777703"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "932457"
+rsid = "rs1891910"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "934345"
+rsid = "rs9697457"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "940203"
+rsid = "rs35940137"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "944564"
+rsid = "rs3128117"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "947034"
+rsid = "rs2465126"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "948692"
+rsid = "rs2341365"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "948921"
+rsid = "rs15842"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "957640"
+rsid = "rs6657048"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "959842"
+rsid = "rs2710888"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "962210"
+rsid = "rs3128126"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "977780"
+rsid = "rs2710875"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "990417"
+rsid = "rs2465136"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "994391"
+rsid = "rs2488991"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "998395"
+rsid = "rs7526076"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1005806"
+rsid = "rs3934834"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1017197"
+rsid = "rs3766192"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1017587"
+rsid = "rs3766191"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1018704"
+rsid = "rs9442372"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1021346"
+rsid = "rs10907177"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1021415"
+rsid = "rs3737728"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1021583"
+rsid = "rs10907178"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1021695"
+rsid = "rs9442398"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1025301"
+rsid = "rs9442400"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1030565"
+rsid = "rs6687776"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1036959"
+rsid = "rs11579015"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1040026"
+rsid = "rs6671356"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1060174"
+rsid = "rs7548798"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1061262"
+rsid = "rs12757754"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1062638"
+rsid = "rs9442373"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1064979"
+rsid = "rs2298217"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1066403"
+rsid = "rs10907182"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1087683"
+rsid = "rs9442380"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1089699"
+rsid = "rs6686003"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1097335"
+rsid = "rs9442385"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1099342"
+rsid = "rs9660710"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1100217"
+rsid = "rs1891905"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1106784"
+rsid = "rs4442317"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1108637"
+rsid = "rs4970421"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1110019"
+rsid = "rs11260542"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1110586"
+rsid = "rs9442387"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1113121"
+rsid = "rs12092254"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1121014"
+rsid = "rs3813204"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1121794"
+rsid = "rs11260549"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1130727"
+rsid = "rs10907175"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1138913"
+rsid = "rs3819001"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1139216"
+rsid = "rs11466695"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1139416"
+rsid = "rs11466694"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1140870"
+rsid = "rs11466687"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1150855"
+rsid = "rs35222290"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1153113"
+rsid = "rs12036216"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1156131"
+rsid = "rs2887286"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1158277"
+rsid = "rs3813199"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1158631"
+rsid = "rs6603781"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1163804"
+rsid = "rs7515488"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1165310"
+rsid = "rs11260562"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1173611"
+rsid = "rs6697886"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1176597"
+rsid = "rs6675798"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1178245"
+rsid = "rs11260566"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1178925"
+rsid = "rs12093154"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1191870"
+rsid = "rs3818646"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1196471"
+rsid = "rs6673601"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1197591"
+rsid = "rs6704013"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1201632"
+rsid = "rs12402622"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1203938"
+rsid = "rs4018608"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1210471"
+rsid = "rs11260577"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1210963"
+rsid = "rs6689813"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1211292"
+rsid = "rs6685064"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1213305"
+rsid = "rs28488099"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1219775"
+rsid = "rs12077700"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1220136"
+rsid = "rs2144440"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1227897"
+rsid = "rs3737721"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1229770"
+rsid = "rs6669227"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1231656"
+rsid = "rs1749951"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1233941"
+rsid = "rs1739855"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1239935"
+rsid = "rs12410087"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1239953"
+rsid = "rs10399878"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1240717"
+rsid = "rs3766182"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1246972"
+rsid = "rs3818448"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1249187"
+rsid = "rs12142199"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1255130"
+rsid = "rs10449893"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1257593"
+rsid = "rs1810745"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1258246"
+rsid = "rs3845293"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1269723"
+rsid = "rs34810828"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1269986"
+rsid = "rs35424002"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1287127"
+rsid = "rs307380"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1295323"
+rsid = "rs34389364"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1297422"
+rsid = "rs2765021"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1305561"
+rsid = "rs17160669"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1307872"
+rsid = "rs2477774"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1308982"
+rsid = "rs2765015"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1309977"
+rsid = "rs2765036"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1310924"
+rsid = "rs2765033"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1314015"
+rsid = "rs2649588"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1314172"
+rsid = "rs2477777"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1333598"
+rsid = "rs35242196"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1335218"
+rsid = "rs2291889"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1335302"
+rsid = "rs1240707"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1335790"
+rsid = "rs1240708"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1341185"
+rsid = "rs17160977"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1356550"
+rsid = "rs12089560"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1361463"
+rsid = "rs12730443"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1366830"
+rsid = "rs873927"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "1367193"
+rsid = "rs35958305"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1385211"
+rsid = "rs1312568"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1388268"
+rsid = "rs36044796"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1404809"
+rsid = "rs1240732"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1418112"
+rsid = "rs2862157"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1425700"
+rsid = "rs819980"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1447325"
+rsid = "rs6690515"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1450947"
+rsid = "rs6669795"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1453921"
+rsid = "rs10159041"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1458954"
+rsid = "rs3737714"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1465382"
+rsid = "rs12032637"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1472047"
+rsid = "rs3118505"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1472201"
+rsid = "rs9782908"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1474167"
+rsid = "rs1571149"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1477244"
+rsid = "rs7290"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1477660"
+rsid = "rs11807706"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1478153"
+rsid = "rs3766180"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "1479333"
+rsid = "rs7533"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1485984"
+rsid = "rs2031709"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1489670"
+rsid = "rs7531530"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1493727"
+rsid = "rs880051"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1497824"
+rsid = "rs2296716"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1499298"
+rsid = "rs9439468"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1510801"
+rsid = "rs7519837"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1519068"
+rsid = "rs6687029"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1521595"
+rsid = "rs6604983"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1549605"
+rsid = "rs28430872"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1559971"
+rsid = "rs12748433"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1560103"
+rsid = "rs28635343"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1566160"
+rsid = "rs28464684"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1567206"
+rsid = "rs28456011"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1598908"
+rsid = "rs35154105"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1610809"
+rsid = "rs28707307"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1619541"
+rsid = "rs28487995"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1627987"
+rsid = "rs35261312"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1646574"
+rsid = "rs760925"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1664124"
+rsid = "rs2294489"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1684472"
+rsid = "rs7407"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1691050"
+rsid = "rs35672141"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1706136"
+rsid = "rs6603811"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1706160"
+rsid = "rs7531583"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "1707740"
+rsid = "rs12041925"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1711414"
+rsid = "rs867207"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1712230"
+rsid = "rs10907194"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1715011"
+rsid = "rs742359"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1721479"
+rsid = "rs2272908"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1727391"
+rsid = "rs12069909"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1731756"
+rsid = "rs10159187"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1745726"
+rsid = "rs16825336"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1762014"
+rsid = "rs7553640"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1763774"
+rsid = "rs11589067"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1776269"
+rsid = "rs4648727"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1781220"
+rsid = "rs6681938"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1793111"
+rsid = "rs10907192"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1801034"
+rsid = "rs4648592"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1804302"
+rsid = "rs3855951"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1810090"
+rsid = "rs7525092"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1812521"
+rsid = "rs6603802"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1818129"
+rsid = "rs16824526"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1827212"
+rsid = "rs12093735"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1829482"
+rsid = "rs745910"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1844046"
+rsid = "rs2474460"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1846582"
+rsid = "rs2748987"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1846765"
+rsid = "rs2247560"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1847531"
+rsid = "rs28710181"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1848734"
+rsid = "rs941532"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1852484"
+rsid = "rs28508199"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "1853394"
+rsid = "rs2144687"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1854321"
+rsid = "rs2250833"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1865298"
+rsid = "rs2803316"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1874581"
+rsid = "rs2803329"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1875267"
+rsid = "rs2262190"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1886519"
+rsid = "rs2748975"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "1888193"
+rsid = "rs3820011"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1900232"
+rsid = "rs16824588"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1926087"
+rsid = "rs6661597"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1930754"
+rsid = "rs6605081"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1941929"
+rsid = "rs6656398"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1946591"
+rsid = "rs13303016"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "1950621"
+rsid = "rs28603108"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1954066"
+rsid = "rs28669111"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1959022"
+rsid = "rs28437090"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "1967954"
+rsid = "rs2376803"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1970444"
+rsid = "rs28706891"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1981118"
+rsid = "rs3795277"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "1987803"
+rsid = "rs2803309"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "1991014"
+rsid = "rs1878745"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "1992748"
+rsid = "rs6605074"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2000592"
+rsid = "rs2678939"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2004098"
+rsid = "rs6663158"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2006108"
+rsid = "rs2254669"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2017297"
+rsid = "rs2803310"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2024064"
+rsid = "rs2459994"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2026403"
+rsid = "rs3128326"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2026749"
+rsid = "rs884080"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2027901"
+rsid = "rs7513222"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2033256"
+rsid = "rs908742"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2035684"
+rsid = "rs10910030"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2038732"
+rsid = "rs12410859"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2040898"
+rsid = "rs4648807"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2040936"
+rsid = "rs4648808"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2044037"
+rsid = "rs925905"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2051513"
+rsid = "rs3107151"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2056735"
+rsid = "rs3107153"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2058023"
+rsid = "rs3128291"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2068906"
+rsid = "rs3128296"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2069681"
+rsid = "rs3753242"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2070100"
+rsid = "rs3128297"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2071340"
+rsid = "rs424079"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2074104"
+rsid = "rs12026349"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2075570"
+rsid = "rs377283"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2082505"
+rsid = "rs9442619"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2082566"
+rsid = "rs2257182"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2100840"
+rsid = "rs262643"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2117558"
+rsid = "rs3123595"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2118339"
+rsid = "rs262685"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2119833"
+rsid = "rs2460002"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2121118"
+rsid = "rs2503701"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2126380"
+rsid = "rs12034613"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2129525"
+rsid = "rs12566870"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2133695"
+rsid = "rs12754312"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2133862"
+rsid = "rs10910026"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2146966"
+rsid = "rs7512482"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2156362"
+rsid = "rs2460000"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2163568"
+rsid = "rs263533"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2164116"
+rsid = "rs263532"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2173504"
+rsid = "rs263526"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2185886"
+rsid = "rs16824947"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2189580"
+rsid = "rs12084736"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2192433"
+rsid = "rs10797417"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2195117"
+rsid = "rs7547453"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2199057"
+rsid = "rs11588312"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2202967"
+rsid = "rs903908"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2204755"
+rsid = "rs7553178"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2211849"
+rsid = "rs10910047"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2218100"
+rsid = "rs12119470"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2220649"
+rsid = "rs2017143"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2221222"
+rsid = "rs2643885"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2221534"
+rsid = "rs903924"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2222583"
+rsid = "rs903919"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2223866"
+rsid = "rs884940"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2224836"
+rsid = "rs12743493"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2224876"
+rsid = "rs10910050"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2229478"
+rsid = "rs12562937"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2231463"
+rsid = "rs903916"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2234632"
+rsid = "rs2279702"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2235672"
+rsid = "rs2843159"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2240006"
+rsid = "rs2173049"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2251160"
+rsid = "rs12082516"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2254910"
+rsid = "rs2645075"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2261222"
+rsid = "rs2645065"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2263888"
+rsid = "rs903904"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2265969"
+rsid = "rs2843146"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2269948"
+rsid = "rs2843143"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2270098"
+rsid = "rs2843142"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2280661"
+rsid = "rs2055204"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2281726"
+rsid = "rs7527871"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2282135"
+rsid = "rs10910053"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2283117"
+rsid = "rs4648831"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2283161"
+rsid = "rs2840525"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2283896"
+rsid = "rs2840528"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2284003"
+rsid = "rs2645082"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2284195"
+rsid = "rs3795272"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2286408"
+rsid = "rs2840531"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2289321"
+rsid = "rs903914"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2292352"
+rsid = "rs2643891"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2299651"
+rsid = "rs2840538"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2301691"
+rsid = "rs6665546"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2303512"
+rsid = "rs10910061"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2303566"
+rsid = "rs2840534"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2306152"
+rsid = "rs12031614"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2306695"
+rsid = "rs2279703"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2306972"
+rsid = "rs7519807"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2308029"
+rsid = "rs12070746"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2309082"
+rsid = "rs2843160"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2310193"
+rsid = "rs903901"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2314319"
+rsid = "rs2643901"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2315717"
+rsid = "rs2843127"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2319428"
+rsid = "rs903903"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2325371"
+rsid = "rs16825102"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2326009"
+rsid = "rs1123571"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2327075"
+rsid = "rs3736330"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2327815"
+rsid = "rs2840532"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2328714"
+rsid = "rs2645081"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2329808"
+rsid = "rs3001344"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2330190"
+rsid = "rs6693447"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2333031"
+rsid = "rs3001336"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2336210"
+rsid = "rs1129332"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2338569"
+rsid = "rs2494427"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2338879"
+rsid = "rs6671420"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2339074"
+rsid = "rs2494428"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2345966"
+rsid = "rs11811122"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2351699"
+rsid = "rs3935659"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2352146"
+rsid = "rs12731309"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2359280"
+rsid = "rs2494435"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2359981"
+rsid = "rs12022929"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2362020"
+rsid = "rs4531246"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2362827"
+rsid = "rs2494641"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2366316"
+rsid = "rs4648843"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2369498"
+rsid = "rs4592207"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2373089"
+rsid = "rs6659405"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2376733"
+rsid = "rs10449222"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2377400"
+rsid = "rs4443836"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2379248"
+rsid = "rs11581548"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2381568"
+rsid = "rs867810"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2387101"
+rsid = "rs4648845"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2390588"
+rsid = "rs10910078"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2394226"
+rsid = "rs4648636"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2404256"
+rsid = "rs2494626"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2406887"
+rsid = "rs13376356"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2408834"
+rsid = "rs11588930"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2409276"
+rsid = "rs12049628"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2411451"
+rsid = "rs10797428"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2418625"
+rsid = "rs7512269"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2418935"
+rsid = "rs10910082"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2420913"
+rsid = "rs6668720"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2424122"
+rsid = "rs17373634"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2425992"
+rsid = "rs2477703"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2427712"
+rsid = "rs3762444"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2430617"
+rsid = "rs2296442"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2439191"
+rsid = "rs1107685"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2444414"
+rsid = "rs7535528"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2445406"
+rsid = "rs2247308"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2449711"
+rsid = "rs3122920"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2454709"
+rsid = "rs2494625"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2455863"
+rsid = "rs1980789"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2456203"
+rsid = "rs3122922"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2459166"
+rsid = "rs7511947"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2465329"
+rsid = "rs11584295"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2466633"
+rsid = "rs2494606"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2473258"
+rsid = "rs2495368"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2480337"
+rsid = "rs10797430"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2489167"
+rsid = "rs11573970"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2502780"
+rsid = "rs6667605"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2504733"
+rsid = "rs2260965"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2507415"
+rsid = "rs4310388"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2513216"
+rsid = "rs734999"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2521430"
+rsid = "rs10910097"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2522392"
+rsid = "rs2296443"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2524915"
+rsid = "rs10752747"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2526746"
+rsid = "rs3748816"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2528133"
+rsid = "rs2843401"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2532416"
+rsid = "rs2985859"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2538209"
+rsid = "rs10910105"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2538738"
+rsid = "rs12138909"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2539006"
+rsid = "rs10797437"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2541269"
+rsid = "rs10797440"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2544640"
+rsid = "rs10752748"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2546229"
+rsid = "rs6684865"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2551785"
+rsid = "rs12117343"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2551900"
+rsid = "rs11590198"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2553624"
+rsid = "rs3890745"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2564183"
+rsid = "rs6698817"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2586303"
+rsid = "rs28688388"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2700372"
+rsid = "rs4648390"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2713327"
+rsid = "rs2377041"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2733587"
+rsid = "rs10909890"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2739933"
+rsid = "rs6665757"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2742491"
+rsid = "rs12071313"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2745883"
+rsid = "rs4609377"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2749921"
+rsid = "rs4648482"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2756397"
+rsid = "rs4648383"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2756621"
+rsid = "rs4648384"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2761375"
+rsid = "rs12049543"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2761863"
+rsid = "rs1456460"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2779043"
+rsid = "rs12409348"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "2785671"
+rsid = "rs6683974"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2792801"
+rsid = "rs16823103"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2794470"
+rsid = "rs6676289"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2794551"
+rsid = "rs10909793"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2797856"
+rsid = "rs10797342"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2806107"
+rsid = "rs3100865"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "2817421"
+rsid = "rs2842910"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2824989"
+rsid = "rs880725"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2833332"
+rsid = "rs7340016"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2835692"
+rsid = "rs897634"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "2839757"
+rsid = "rs4648432"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2842270"
+rsid = "rs2045331"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2842319"
+rsid = "rs2045332"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2847488"
+rsid = "rs2606411"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2849190"
+rsid = "rs12403214"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "2850181"
+rsid = "rs4648441"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2852707"
+rsid = "rs10797368"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2853759"
+rsid = "rs16823228"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2859724"
+rsid = "rs2842909"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2862320"
+rsid = "rs7539511"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2865901"
+rsid = "rs7541664"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2867961"
+rsid = "rs2842933"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2870850"
+rsid = "rs2606418"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2876525"
+rsid = "rs10909845"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2878366"
+rsid = "rs11583804"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "2879640"
+rsid = "rs878201"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2883858"
+rsid = "rs2485944"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2883932"
+rsid = "rs2485945"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2886988"
+rsid = "rs4072769"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2889577"
+rsid = "rs12044030"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2891713"
+rsid = "rs12046158"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2898960"
+rsid = "rs6681741"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2902128"
+rsid = "rs1572657"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2902227"
+rsid = "rs16823022"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2903380"
+rsid = "rs11807605"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2905605"
+rsid = "rs10909852"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2909170"
+rsid = "rs4489496"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2917377"
+rsid = "rs12025260"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2919942"
+rsid = "rs12022429"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2921909"
+rsid = "rs6683516"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2924666"
+rsid = "rs12562637"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2928421"
+rsid = "rs7534897"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2938265"
+rsid = "rs4576609"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2938697"
+rsid = "rs3795262"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2938989"
+rsid = "rs3795263"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2939409"
+rsid = "rs12564513"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2943183"
+rsid = "rs7412983"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2944527"
+rsid = "rs2142569"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2956666"
+rsid = "rs2993510"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "2970464"
+rsid = "rs717795"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2973322"
+rsid = "rs2993480"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2974742"
+rsid = "rs1125017"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "2983963"
+rsid = "rs2297828"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "2984087"
+rsid = "rs2297829"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "2996602"
+rsid = "rs1569419"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3000465"
+rsid = "rs760567"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3000924"
+rsid = "rs6695131"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3006283"
+rsid = "rs926244"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3009969"
+rsid = "rs7543737"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3013690"
+rsid = "rs2817168"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3020246"
+rsid = "rs2993493"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "3024265"
+rsid = "rs1890336"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3025712"
+rsid = "rs4648453"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3035227"
+rsid = "rs6690373"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3037613"
+rsid = "rs876740"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3044181"
+rsid = "rs2817174"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3047252"
+rsid = "rs2817178"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3049713"
+rsid = "rs10909882"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3054106"
+rsid = "rs2235176"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3055876"
+rsid = "rs10797380"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3057661"
+rsid = "rs7538096"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3062361"
+rsid = "rs2817185"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3072692"
+rsid = "rs731031"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3074306"
+rsid = "rs2651902"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3080019"
+rsid = "rs2742673"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3083712"
+rsid = "rs2651899"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3086464"
+rsid = "rs7518255"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3086496"
+rsid = "rs2651935"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3089849"
+rsid = "rs17390062"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3097073"
+rsid = "rs12733843"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3101762"
+rsid = "rs2651927"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3103826"
+rsid = "rs4233024"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3104630"
+rsid = "rs10752733"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3105493"
+rsid = "rs7545618"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3107386"
+rsid = "rs12139196"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3108496"
+rsid = "rs10737190"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3109151"
+rsid = "rs7539775"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3110735"
+rsid = "rs2651912"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3111669"
+rsid = "rs12094678"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3119729"
+rsid = "rs4308918"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3131235"
+rsid = "rs10909901"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3134331"
+rsid = "rs12124147"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3135175"
+rsid = "rs2651906"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3137397"
+rsid = "rs2651897"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3138111"
+rsid = "rs2651895"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3140464"
+rsid = "rs16823542"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3141616"
+rsid = "rs16823551"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3144745"
+rsid = "rs1553288"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3146497"
+rsid = "rs10157420"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3147030"
+rsid = "rs6424069"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3147899"
+rsid = "rs10909905"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3149145"
+rsid = "rs2817158"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3150345"
+rsid = "rs12036784"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3153237"
+rsid = "rs11807062"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3155102"
+rsid = "rs2249336"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3157614"
+rsid = "rs905138"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3162209"
+rsid = "rs2455118"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3168280"
+rsid = "rs10797386"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3177480"
+rsid = "rs3002685"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3178111"
+rsid = "rs3002686"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3180158"
+rsid = "rs2455107"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3180633"
+rsid = "rs2455102"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3189006"
+rsid = "rs2455125"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3196680"
+rsid = "rs16823027"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3197747"
+rsid = "rs10492940"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3199217"
+rsid = "rs16823802"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3199484"
+rsid = "rs905135"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3199634"
+rsid = "rs12562988"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3200376"
+rsid = "rs13374621"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3208375"
+rsid = "rs10909918"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3208830"
+rsid = "rs12757342"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3209923"
+rsid = "rs1553291"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3211458"
+rsid = "rs4648377"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3214732"
+rsid = "rs2455144"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3217151"
+rsid = "rs2455137"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3219901"
+rsid = "rs2455135"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3220101"
+rsid = "rs6673393"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3221371"
+rsid = "rs7517281"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3225940"
+rsid = "rs2500278"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3227188"
+rsid = "rs2483260"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3228915"
+rsid = "rs12409345"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3229185"
+rsid = "rs12743017"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3230544"
+rsid = "rs16824089"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3236041"
+rsid = "rs2483266"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3240199"
+rsid = "rs870465"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3241135"
+rsid = "rs1108600"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3241829"
+rsid = "rs2500271"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3243017"
+rsid = "rs10909930"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3248098"
+rsid = "rs2483274"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3251159"
+rsid = "rs1110307"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3252104"
+rsid = "rs2483278"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3252169"
+rsid = "rs2483279"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3253889"
+rsid = "rs7516150"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3253941"
+rsid = "rs7552331"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3259113"
+rsid = "rs882430"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3259183"
+rsid = "rs6683273"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3261682"
+rsid = "rs4415513"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3261925"
+rsid = "rs4648380"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "3264190"
+rsid = "rs2483289"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3269828"
+rsid = "rs2483256"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3273063"
+rsid = "rs946758"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3275149"
+rsid = "rs12748963"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3276138"
+rsid = "rs2500286"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3276374"
+rsid = "rs12073172"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3278959"
+rsid = "rs17399569"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3279324"
+rsid = "rs7524171"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3280021"
+rsid = "rs2500262"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3285304"
+rsid = "rs4648487"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3285860"
+rsid = "rs4648381"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3289524"
+rsid = "rs12135987"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3289729"
+rsid = "rs1333190"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3289971"
+rsid = "rs1333189"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "3291139"
+rsid = "rs2249860"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3292984"
+rsid = "rs2493311"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3293665"
+rsid = "rs4648489"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3294422"
+rsid = "rs2493310"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3294972"
+rsid = "rs1538693"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3297638"
+rsid = "rs12085231"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3300807"
+rsid = "rs868688"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3304336"
+rsid = "rs10492938"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3305016"
+rsid = "rs17399998"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3307746"
+rsid = "rs2493278"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3308034"
+rsid = "rs2493275"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3312256"
+rsid = "rs17822575"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3312914"
+rsid = "rs871822"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3315818"
+rsid = "rs7542793"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3317780"
+rsid = "rs6424074"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3318532"
+rsid = "rs11578011"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3320799"
+rsid = "rs12024847"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3325037"
+rsid = "rs2483225"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3328358"
+rsid = "rs870124"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3328659"
+rsid = "rs2493292"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3333595"
+rsid = "rs2493285"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3336200"
+rsid = "rs1984069"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3339339"
+rsid = "rs10492937"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3340855"
+rsid = "rs4648500"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3342530"
+rsid = "rs2244013"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3342804"
+rsid = "rs870171"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3349513"
+rsid = "rs2493272"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3352872"
+rsid = "rs2236518"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "3356405"
+rsid = "rs2483250"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3362256"
+rsid = "rs867814"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3368143"
+rsid = "rs2487670"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3377343"
+rsid = "rs2487681"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3377442"
+rsid = "rs2487680"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3381698"
+rsid = "rs12562167"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3383038"
+rsid = "rs947351"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3389727"
+rsid = "rs2185639"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3393037"
+rsid = "rs12124163"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3395039"
+rsid = "rs10797395"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3400294"
+rsid = "rs2493314"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3405296"
+rsid = "rs4648505"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3406791"
+rsid = "rs2821040"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3407007"
+rsid = "rs2821039"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3411413"
+rsid = "rs2821038"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3416449"
+rsid = "rs7553399"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3423467"
+rsid = "rs947344"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3431235"
+rsid = "rs7543634"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3441264"
+rsid = "rs12093117"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3446813"
+rsid = "rs4648392"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3450637"
+rsid = "rs10797400"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3450985"
+rsid = "rs2794323"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3451005"
+rsid = "rs12119711"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3456592"
+rsid = "rs4648524"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3456871"
+rsid = "rs10737192"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3457295"
+rsid = "rs947347"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3464451"
+rsid = "rs6685801"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3472393"
+rsid = "rs7516641"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3472397"
+rsid = "rs7516644"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3472928"
+rsid = "rs878063"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3473345"
+rsid = "rs9628616"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3474468"
+rsid = "rs10909966"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3474626"
+rsid = "rs2821063"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3477902"
+rsid = "rs2821060"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3479742"
+rsid = "rs10909968"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3483361"
+rsid = "rs880801"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3487126"
+rsid = "rs947354"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3493819"
+rsid = "rs7513251"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3493850"
+rsid = "rs2821054"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3494079"
+rsid = "rs12080677"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3495672"
+rsid = "rs10909973"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3495981"
+rsid = "rs2794341"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3496479"
+rsid = "rs2794340"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3497109"
+rsid = "rs2821050"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3499067"
+rsid = "rs10909974"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3500575"
+rsid = "rs2995009"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3504073"
+rsid = "rs12139206"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3506497"
+rsid = "rs2794320"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3507861"
+rsid = "rs4648527"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3510633"
+rsid = "rs6697749"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3511295"
+rsid = "rs7544357"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3512341"
+rsid = "rs2794327"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3512516"
+rsid = "rs2821025"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3512800"
+rsid = "rs2821023"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3522561"
+rsid = "rs35701577"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3531595"
+rsid = "rs4648398"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3538501"
+rsid = "rs4364818"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3539082"
+rsid = "rs10909989"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3539481"
+rsid = "rs10909990"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3540024"
+rsid = "rs12757620"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3542969"
+rsid = "rs16823920"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3544346"
+rsid = "rs4276857"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3545612"
+rsid = "rs1128474"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3546935"
+rsid = "rs2821007"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3548198"
+rsid = "rs16823940"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3558228"
+rsid = "rs7528494"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3561008"
+rsid = "rs12408890"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3566706"
+rsid = "rs2251098"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3568162"
+rsid = "rs1004650"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3575929"
+rsid = "rs10910003"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3576060"
+rsid = "rs2224718"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3577321"
+rsid = "rs4648545"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3577790"
+rsid = "rs6703610"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3585041"
+rsid = "rs7523732"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3587377"
+rsid = "rs3765695"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3592187"
+rsid = "rs3765702"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3592436"
+rsid = "rs3765703"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3597017"
+rsid = "rs3765705"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3600799"
+rsid = "rs3765712"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3601940"
+rsid = "rs3765716"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3605097"
+rsid = "rs1885872"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3611892"
+rsid = "rs3765731"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3615156"
+rsid = "rs12032272"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3616601"
+rsid = "rs3765736"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3628663"
+rsid = "rs6424089"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3628677"
+rsid = "rs6424090"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3630476"
+rsid = "rs3765761"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3632608"
+rsid = "rs3753211"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3633380"
+rsid = "rs3819967"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3633537"
+rsid = "rs3765764"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3634660"
+rsid = "rs3765766"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3636347"
+rsid = "rs747827"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3637459"
+rsid = "rs12731705"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3637613"
+rsid = "rs2146658"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3645052"
+rsid = "rs12095248"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3646137"
+rsid = "rs11589885"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3646291"
+rsid = "rs1885865"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3647962"
+rsid = "rs1745813"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3648879"
+rsid = "rs4648553"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3649562"
+rsid = "rs9662633"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3651126"
+rsid = "rs1181868"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3651318"
+rsid = "rs1181867"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3653426"
+rsid = "rs1181865"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3654595"
+rsid = "rs7514979"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3654747"
+rsid = "rs7515164"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3657759"
+rsid = "rs12117836"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3659742"
+rsid = "rs2298223"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3662845"
+rsid = "rs3737589"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3668004"
+rsid = "rs4648554"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3668753"
+rsid = "rs12128253"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3671791"
+rsid = "rs1181888"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3677933"
+rsid = "rs1181883"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3679775"
+rsid = "rs10910024"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3680643"
+rsid = "rs1181878"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3680729"
+rsid = "rs1181877"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3681831"
+rsid = "rs1181875"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "3682070"
+rsid = "rs1181874"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3684185"
+rsid = "rs10910025"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3689408"
+rsid = "rs2275819"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3691727"
+rsid = "rs1175549"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3696000"
+rsid = "rs2799182"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3696356"
+rsid = "rs12061931"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3696890"
+rsid = "rs8379"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3697035"
+rsid = "rs17411356"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3701663"
+rsid = "rs2298227"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3706538"
+rsid = "rs9424284"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3709412"
+rsid = "rs12728911"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3709487"
+rsid = "rs7513053"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3730729"
+rsid = "rs11805724"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3732596"
+rsid = "rs6662706"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3736319"
+rsid = "rs9424303"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3741782"
+rsid = "rs7552969"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3742009"
+rsid = "rs9424290"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3742257"
+rsid = "rs12759497"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3743319"
+rsid = "rs6663840"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3744084"
+rsid = "rs9424310"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3745924"
+rsid = "rs2275831"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3747580"
+rsid = "rs6424058"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "3748085"
+rsid = "rs7522227"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "3754596"
+rsid = "rs6683827"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3755675"
+rsid = "rs1891941"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3757749"
+rsid = "rs12744607"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "3761479"
+rsid = "rs2275822"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3765424"
+rsid = "rs10492943"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3772359"
+rsid = "rs4564078"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3773089"
+rsid = "rs4648426"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3781096"
+rsid = "rs10797348"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3786245"
+rsid = "rs12738235"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3789852"
+rsid = "rs12756705"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3793324"
+rsid = "rs6668103"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3794273"
+rsid = "rs12132240"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3796948"
+rsid = "rs4074709"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3797964"
+rsid = "rs12039666"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3800118"
+rsid = "rs12564400"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3803755"
+rsid = "rs7367066"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3805098"
+rsid = "rs7530189"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3806335"
+rsid = "rs10797351"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3806358"
+rsid = "rs10909819"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "3806973"
+rsid = "rs12073945"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3807388"
+rsid = "rs4131373"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3807450"
+rsid = "rs10909820"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3808362"
+rsid = "rs4446914"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "3811810"
+rsid = "rs12082157"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "3821782"
+rsid = "rs11589102"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3822703"
+rsid = "rs10909830"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "3842112"
+rsid = "rs34835780"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "3996946"
+rsid = "rs6695346"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4002498"
+rsid = "rs7538691"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4002832"
+rsid = "rs12724233"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4002958"
+rsid = "rs10915568"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4004250"
+rsid = "rs11583257"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4005693"
+rsid = "rs7524279"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4006060"
+rsid = "rs7548668"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4007008"
+rsid = "rs7519349"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4007110"
+rsid = "rs7519458"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4007558"
+rsid = "rs10737395"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4007688"
+rsid = "rs12090228"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4009071"
+rsid = "rs10799181"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4009694"
+rsid = "rs4654479"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4009793"
+rsid = "rs4654480"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4009956"
+rsid = "rs6661168"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4010743"
+rsid = "rs4654482"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4012472"
+rsid = "rs11590912"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4013618"
+rsid = "rs10799202"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4013954"
+rsid = "rs12119556"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4014091"
+rsid = "rs10915433"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4015382"
+rsid = "rs6681347"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4017137"
+rsid = "rs7522140"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4026068"
+rsid = "rs12031275"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4026098"
+rsid = "rs7550609"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4027590"
+rsid = "rs6693909"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4029733"
+rsid = "rs10915495"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4031327"
+rsid = "rs3935162"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4034097"
+rsid = "rs12031557"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4035129"
+rsid = "rs10799224"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4039896"
+rsid = "rs11587331"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4052956"
+rsid = "rs10799236"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4054067"
+rsid = "rs6691155"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4057488"
+rsid = "rs12135298"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4066781"
+rsid = "rs4128222"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4068052"
+rsid = "rs6675979"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4068146"
+rsid = "rs12731145"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4078448"
+rsid = "rs4129100"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4080764"
+rsid = "rs4323679"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4082105"
+rsid = "rs10915600"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4092949"
+rsid = "rs10915659"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4094068"
+rsid = "rs12137595"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4104757"
+rsid = "rs12036953"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4108282"
+rsid = "rs4654402"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4111187"
+rsid = "rs12749761"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4111741"
+rsid = "rs4553153"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4113096"
+rsid = "rs4266850"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4117238"
+rsid = "rs4654404"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4118987"
+rsid = "rs10799175"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4119422"
+rsid = "rs10915366"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4119662"
+rsid = "rs9792946"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4120311"
+rsid = "rs7514530"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4120898"
+rsid = "rs4233258"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4121105"
+rsid = "rs10915373"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4121584"
+rsid = "rs7524800"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4121747"
+rsid = "rs12041796"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4123099"
+rsid = "rs6669278"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4129266"
+rsid = "rs16840701"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4130348"
+rsid = "rs4130940"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4130684"
+rsid = "rs4391636"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4132222"
+rsid = "rs12093951"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4140030"
+rsid = "rs4436359"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4145615"
+rsid = "rs10915421"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4146028"
+rsid = "rs10915423"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4152715"
+rsid = "rs4462110"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4152928"
+rsid = "rs4481820"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4153087"
+rsid = "rs6676961"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4158955"
+rsid = "rs10915428"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4160904"
+rsid = "rs7523426"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4165198"
+rsid = "rs12073797"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4168066"
+rsid = "rs7542313"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4170048"
+rsid = "rs12077262"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4170178"
+rsid = "rs12032575"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4170249"
+rsid = "rs7548756"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4171786"
+rsid = "rs10492944"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4173841"
+rsid = "rs10492945"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4174116"
+rsid = "rs10915434"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4176106"
+rsid = "rs6670920"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4177898"
+rsid = "rs16840802"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4180842"
+rsid = "rs12040805"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4183258"
+rsid = "rs10915438"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4185126"
+rsid = "rs10753368"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4186309"
+rsid = "rs6426389"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4187952"
+rsid = "rs4654487"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "4190685"
+rsid = "rs4282783"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4194597"
+rsid = "rs4131506"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4197035"
+rsid = "rs6702633"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4197642"
+rsid = "rs10915445"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4198701"
+rsid = "rs4654490"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4200837"
+rsid = "rs11808881"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4201349"
+rsid = "rs16840838"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4201815"
+rsid = "rs4654492"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4202818"
+rsid = "rs7542208"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4206210"
+rsid = "rs9426471"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4208542"
+rsid = "rs7539733"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4210402"
+rsid = "rs6683453"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4210455"
+rsid = "rs9426473"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4212493"
+rsid = "rs16840866"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4216165"
+rsid = "rs9988443"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4221599"
+rsid = "rs4614226"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4227320"
+rsid = "rs16840873"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4227464"
+rsid = "rs12123330"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4227634"
+rsid = "rs4468133"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4230463"
+rsid = "rs10915459"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4231201"
+rsid = "rs12074880"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4231757"
+rsid = "rs6688343"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4231843"
+rsid = "rs6680706"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4232794"
+rsid = "rs11583685"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4233810"
+rsid = "rs6695203"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4234792"
+rsid = "rs12743431"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4236982"
+rsid = "rs4233262"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4240178"
+rsid = "rs4233264"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4250933"
+rsid = "rs11808641"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4260418"
+rsid = "rs6667065"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4263063"
+rsid = "rs4654510"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4263519"
+rsid = "rs10158783"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4263677"
+rsid = "rs6687268"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4263997"
+rsid = "rs4654512"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4267089"
+rsid = "rs16840901"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4269491"
+rsid = "rs6426402"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4271526"
+rsid = "rs12022636"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4271915"
+rsid = "rs7553814"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4276903"
+rsid = "rs10915478"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4281160"
+rsid = "rs10799216"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4281458"
+rsid = "rs4654424"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4282786"
+rsid = "rs11579829"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4283315"
+rsid = "rs2132177"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4284659"
+rsid = "rs903540"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4284919"
+rsid = "rs7528938"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4288803"
+rsid = "rs10915480"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4289045"
+rsid = "rs10753374"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4289899"
+rsid = "rs10799218"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4292038"
+rsid = "rs7534558"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4293892"
+rsid = "rs12071761"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4294000"
+rsid = "rs4512614"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4295304"
+rsid = "rs12132422"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4299727"
+rsid = "rs7517989"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4309953"
+rsid = "rs6679489"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4312205"
+rsid = "rs1908490"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4314177"
+rsid = "rs16841022"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4315429"
+rsid = "rs12086930"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4316784"
+rsid = "rs964715"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4321467"
+rsid = "rs10915489"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4322086"
+rsid = "rs16841063"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4327635"
+rsid = "rs2101576"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4328074"
+rsid = "rs12087250"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4328476"
+rsid = "rs10915494"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4330201"
+rsid = "rs17407762"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4330287"
+rsid = "rs6677984"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4335893"
+rsid = "rs903541"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4341843"
+rsid = "rs1390136"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4342604"
+rsid = "rs1495244"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4343581"
+rsid = "rs16838549"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4351888"
+rsid = "rs16838560"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4352710"
+rsid = "rs16838561"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4355593"
+rsid = "rs2029490"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4359166"
+rsid = "rs12562995"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4364226"
+rsid = "rs693734"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "4365471"
+rsid = "rs351625"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4366890"
+rsid = "rs351623"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4367323"
+rsid = "rs1490413"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4367389"
+rsid = "rs16838591"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4367810"
+rsid = "rs17448695"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4367922"
+rsid = "rs1817914"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4367980"
+rsid = "rs2934983"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4368026"
+rsid = "rs1817913"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4368271"
+rsid = "rs10915508"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4368473"
+rsid = "rs11581089"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4368819"
+rsid = "rs351619"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4370074"
+rsid = "rs1495239"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4370385"
+rsid = "rs351615"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4370489"
+rsid = "rs12073612"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4371949"
+rsid = "rs12132314"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4372470"
+rsid = "rs716214"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4372992"
+rsid = "rs1353341"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4375859"
+rsid = "rs10915509"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4379687"
+rsid = "rs12408012"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4380195"
+rsid = "rs1874269"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4380518"
+rsid = "rs7418164"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4380629"
+rsid = "rs351599"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4382789"
+rsid = "rs351605"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4382979"
+rsid = "rs13375925"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4384056"
+rsid = "rs351606"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4384859"
+rsid = "rs351609"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4387855"
+rsid = "rs656332"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4388885"
+rsid = "rs641473"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4389262"
+rsid = "rs639739"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4390289"
+rsid = "rs625079"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4395812"
+rsid = "rs579387"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4397703"
+rsid = "rs685494"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4398015"
+rsid = "rs589585"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4398996"
+rsid = "rs498795"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4401450"
+rsid = "rs11587563"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4405998"
+rsid = "rs10799228"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4406674"
+rsid = "rs16838763"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4409496"
+rsid = "rs600933"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4414045"
+rsid = "rs528291"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4418164"
+rsid = "rs1531328"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4418319"
+rsid = "rs16838790"
+
+[[dna]]
+allele1 = "A"
+allele2 = "C"
+chromosome = "1"
+position = "4419820"
+rsid = "rs349393"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4419997"
+rsid = "rs17410050"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4422230"
+rsid = "rs16838800"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4423061"
+rsid = "rs6656193"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4423272"
+rsid = "rs6666204"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4425414"
+rsid = "rs75411"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4426085"
+rsid = "rs12404619"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4427083"
+rsid = "rs12023786"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4429462"
+rsid = "rs483344"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4431571"
+rsid = "rs12028738"
+
+[[dna]]
+allele1 = "0"
+allele2 = "0"
+chromosome = "1"
+position = "4434974"
+rsid = "rs661536"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4437518"
+rsid = "rs11805156"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4440749"
+rsid = "rs589870"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4441089"
+rsid = "rs1845635"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4444706"
+rsid = "rs349413"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "4446996"
+rsid = "rs7418714"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4448702"
+rsid = "rs747778"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4456133"
+rsid = "rs10915522"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4456277"
+rsid = "rs7521665"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4457844"
+rsid = "rs10915523"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4459689"
+rsid = "rs6679220"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4462460"
+rsid = "rs349400"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "4463585"
+rsid = "rs349401"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4468747"
+rsid = "rs12047204"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4468884"
+rsid = "rs547923"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4471374"
+rsid = "rs10915528"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4473263"
+rsid = "rs2926481"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4475633"
+rsid = "rs7522080"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4478442"
+rsid = "rs12120157"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4481215"
+rsid = "rs4654432"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4488779"
+rsid = "rs12029910"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4488979"
+rsid = "rs6658372"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4489398"
+rsid = "rs6678792"
+
+[[dna]]
+allele1 = "T"
+allele2 = "G"
+chromosome = "1"
+position = "4491460"
+rsid = "rs10915535"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4493215"
+rsid = "rs1556691"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4495287"
+rsid = "rs7546628"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4495678"
+rsid = "rs1591426"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4496256"
+rsid = "rs1762814"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4496659"
+rsid = "rs1674877"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4497217"
+rsid = "rs1674879"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4500436"
+rsid = "rs12731060"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4501911"
+rsid = "rs12128230"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4502198"
+rsid = "rs780574"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4503725"
+rsid = "rs780581"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4504094"
+rsid = "rs706144"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4505966"
+rsid = "rs780587"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4507743"
+rsid = "rs780593"
+
+[[dna]]
+allele1 = "C"
+allele2 = "C"
+chromosome = "1"
+position = "4510840"
+rsid = "rs705685"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4512105"
+rsid = "rs780598"
+
+[[dna]]
+allele1 = "G"
+allele2 = "G"
+chromosome = "1"
+position = "4518202"
+rsid = "rs666152"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4529544"
+rsid = "rs10915545"
+
+[[dna]]
+allele1 = "A"
+allele2 = "G"
+chromosome = "1"
+position = "4534321"
+rsid = "rs10047182"
+
+[[dna]]
+allele1 = "T"
+allele2 = "C"
+chromosome = "1"
+position = "4534350"
+rsid = "rs12143782"
+
+[[dna]]
+allele1 = "A"
+allele2 = "A"
+chromosome = "1"
+position = "4541390"
+rsid = "rs11799990"
+
+[[dna]]
+allele1 = "T"
+allele2 = "T"
+chromosome = "1"
+position = "4541425"
+rsid = "rs6426418"
+
