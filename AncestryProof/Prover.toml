@@ -1,0 +1,8005 @@
+# Genetic Data Encoding:
+# Alleles: A=1, T=2, G=3, C=4, Missing=0
+# Chromosomes: 1-22=1-22, X=23, Y=24, MT=25
+ancestor = "0"
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 82154
+rsid = "4477212"
+# Original: T/T on chr1 at 82154
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 752721
+rsid = "3131972"
+# Original: G/G on chr1 at 752721
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 768448
+rsid = "12562034"
+# Original: G/G on chr1 at 768448
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 798959
+rsid = "11240777"
+# Original: G/G on chr1 at 798959
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 800007
+rsid = "6681049"
+# Original: C/C on chr1 at 800007
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 838555
+rsid = "4970383"
+# Original: 0/0 on chr1 at 838555
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 846808
+rsid = "4475691"
+# Original: C/C on chr1 at 846808
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 854250
+rsid = "7537756"
+# Original: A/A on chr1 at 854250
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 861808
+rsid = "13302982"
+# Original: G/G on chr1 at 861808
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 873558
+rsid = "1110052"
+# Original: T/T on chr1 at 873558
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 887162
+rsid = "17160698"
+# Original: T/T on chr1 at 887162
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 888659
+rsid = "3748597"
+# Original: C/C on chr1 at 888659
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 891945
+rsid = "13303106"
+# Original: A/G on chr1 at 891945
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 893981
+rsid = "28415373"
+# Original: C/C on chr1 at 893981
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 894573
+rsid = "13303010"
+# Original: A/G on chr1 at 894573
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 903104
+rsid = "6696281"
+# Original: T/C on chr1 at 903104
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 904165
+rsid = "28391282"
+# Original: G/G on chr1 at 904165
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 910935
+rsid = "2340592"
+# Original: G/G on chr1 at 910935
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 918384
+rsid = "13303118"
+# Original: T/G on chr1 at 918384
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 918573
+rsid = "2341354"
+# Original: A/G on chr1 at 918573
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 924898
+rsid = "6665000"
+# Original: A/A on chr1 at 924898
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 927309
+rsid = "2341362"
+# Original: C/C on chr1 at 927309
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 928836
+rsid = "9777703"
+# Original: T/T on chr1 at 928836
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 932457
+rsid = "1891910"
+# Original: A/G on chr1 at 932457
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 934345
+rsid = "9697457"
+# Original: G/G on chr1 at 934345
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 940203
+rsid = "35940137"
+# Original: G/G on chr1 at 940203
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 944564
+rsid = "3128117"
+# Original: T/C on chr1 at 944564
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 947034
+rsid = "2465126"
+# Original: A/A on chr1 at 947034
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 948692
+rsid = "2341365"
+# Original: A/A on chr1 at 948692
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 948921
+rsid = "15842"
+# Original: C/C on chr1 at 948921
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 957640
+rsid = "6657048"
+# Original: C/C on chr1 at 957640
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 959842
+rsid = "2710888"
+# Original: 0/0 on chr1 at 959842
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 962210
+rsid = "3128126"
+# Original: A/G on chr1 at 962210
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 977780
+rsid = "2710875"
+# Original: T/T on chr1 at 977780
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 990417
+rsid = "2465136"
+# Original: T/C on chr1 at 990417
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 994391
+rsid = "2488991"
+# Original: T/T on chr1 at 994391
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 998395
+rsid = "7526076"
+# Original: A/G on chr1 at 998395
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1005806
+rsid = "3934834"
+# Original: C/C on chr1 at 1005806
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1017197
+rsid = "3766192"
+# Original: T/C on chr1 at 1017197
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1017587
+rsid = "3766191"
+# Original: C/C on chr1 at 1017587
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1018704
+rsid = "9442372"
+# Original: A/G on chr1 at 1018704
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1021346
+rsid = "10907177"
+# Original: A/A on chr1 at 1021346
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1021415
+rsid = "3737728"
+# Original: A/G on chr1 at 1021415
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1021583
+rsid = "10907178"
+# Original: A/A on chr1 at 1021583
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1021695
+rsid = "9442398"
+# Original: 0/0 on chr1 at 1021695
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1025301
+rsid = "9442400"
+# Original: T/C on chr1 at 1025301
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1030565
+rsid = "6687776"
+# Original: C/C on chr1 at 1030565
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1036959
+rsid = "11579015"
+# Original: T/T on chr1 at 1036959
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1040026
+rsid = "6671356"
+# Original: T/T on chr1 at 1040026
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1060174
+rsid = "7548798"
+# Original: C/C on chr1 at 1060174
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1061262
+rsid = "12757754"
+# Original: A/A on chr1 at 1061262
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1062638
+rsid = "9442373"
+# Original: A/A on chr1 at 1062638
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1064979
+rsid = "2298217"
+# Original: C/C on chr1 at 1064979
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1066403
+rsid = "10907182"
+# Original: C/C on chr1 at 1066403
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1087683
+rsid = "9442380"
+# Original: 0/0 on chr1 at 1087683
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1089699
+rsid = "6686003"
+# Original: G/G on chr1 at 1089699
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1097335
+rsid = "9442385"
+# Original: G/G on chr1 at 1097335
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1099342
+rsid = "9660710"
+# Original: C/C on chr1 at 1099342
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1100217
+rsid = "1891905"
+# Original: T/T on chr1 at 1100217
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1106784
+rsid = "4442317"
+# Original: T/C on chr1 at 1106784
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1108637
+rsid = "4970421"
+# Original: 0/0 on chr1 at 1108637
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1110019
+rsid = "11260542"
+# Original: A/A on chr1 at 1110019
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1110586
+rsid = "9442387"
+# Original: T/C on chr1 at 1110586
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1113121
+rsid = "12092254"
+# Original: G/G on chr1 at 1113121
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1121014
+rsid = "3813204"
+# Original: A/G on chr1 at 1121014
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1121794
+rsid = "11260549"
+# Original: A/G on chr1 at 1121794
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1130727
+rsid = "10907175"
+# Original: A/A on chr1 at 1130727
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1138913
+rsid = "3819001"
+# Original: T/T on chr1 at 1138913
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1139216
+rsid = "11466695"
+# Original: G/G on chr1 at 1139216
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1139416
+rsid = "11466694"
+# Original: C/C on chr1 at 1139416
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1140870
+rsid = "11466687"
+# Original: C/C on chr1 at 1140870
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1150855
+rsid = "35222290"
+# Original: T/T on chr1 at 1150855
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1153113
+rsid = "12036216"
+# Original: G/G on chr1 at 1153113
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1156131
+rsid = "2887286"
+# Original: T/C on chr1 at 1156131
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1158277
+rsid = "3813199"
+# Original: G/G on chr1 at 1158277
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1158631
+rsid = "6603781"
+# Original: G/G on chr1 at 1158631
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1163804
+rsid = "7515488"
+# Original: C/C on chr1 at 1163804
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1165310
+rsid = "11260562"
+# Original: G/G on chr1 at 1165310
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1173611
+rsid = "6697886"
+# Original: G/G on chr1 at 1173611
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1176597
+rsid = "6675798"
+# Original: T/T on chr1 at 1176597
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1178245
+rsid = "11260566"
+# Original: C/C on chr1 at 1178245
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1178925
+rsid = "12093154"
+# Original: G/G on chr1 at 1178925
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1191870
+rsid = "3818646"
+# Original: C/C on chr1 at 1191870
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1196471
+rsid = "6673601"
+# Original: G/G on chr1 at 1196471
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1197591
+rsid = "6704013"
+# Original: C/C on chr1 at 1197591
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1201632
+rsid = "12402622"
+# Original: A/G on chr1 at 1201632
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1203938
+rsid = "4018608"
+# Original: T/C on chr1 at 1203938
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1210471
+rsid = "11260577"
+# Original: T/C on chr1 at 1210471
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1210963
+rsid = "6689813"
+# Original: T/C on chr1 at 1210963
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1211292
+rsid = "6685064"
+# Original: 0/0 on chr1 at 1211292
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1213305
+rsid = "28488099"
+# Original: C/C on chr1 at 1213305
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1219775
+rsid = "12077700"
+# Original: C/C on chr1 at 1219775
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1220136
+rsid = "2144440"
+# Original: A/G on chr1 at 1220136
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1227897
+rsid = "3737721"
+# Original: A/A on chr1 at 1227897
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1229770
+rsid = "6669227"
+# Original: T/T on chr1 at 1229770
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1231656
+rsid = "1749951"
+# Original: G/G on chr1 at 1231656
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1233941
+rsid = "1739855"
+# Original: T/T on chr1 at 1233941
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1239935
+rsid = "12410087"
+# Original: A/C on chr1 at 1239935
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1239953
+rsid = "10399878"
+# Original: 0/0 on chr1 at 1239953
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1240717
+rsid = "3766182"
+# Original: T/T on chr1 at 1240717
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1246972
+rsid = "3818448"
+# Original: C/C on chr1 at 1246972
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1249187
+rsid = "12142199"
+# Original: A/G on chr1 at 1249187
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1255130
+rsid = "10449893"
+# Original: G/G on chr1 at 1255130
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1257593
+rsid = "1810745"
+# Original: G/G on chr1 at 1257593
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1258246
+rsid = "3845293"
+# Original: C/C on chr1 at 1258246
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1269723
+rsid = "34810828"
+# Original: G/G on chr1 at 1269723
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1269986
+rsid = "35424002"
+# Original: G/G on chr1 at 1269986
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1287127
+rsid = "307380"
+# Original: A/A on chr1 at 1287127
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1295323
+rsid = "34389364"
+# Original: A/A on chr1 at 1295323
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1297422
+rsid = "2765021"
+# Original: T/T on chr1 at 1297422
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1305561
+rsid = "17160669"
+# Original: T/C on chr1 at 1305561
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1307872
+rsid = "2477774"
+# Original: G/G on chr1 at 1307872
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1308982
+rsid = "2765015"
+# Original: G/G on chr1 at 1308982
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1309977
+rsid = "2765036"
+# Original: 0/0 on chr1 at 1309977
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1310924
+rsid = "2765033"
+# Original: C/C on chr1 at 1310924
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1314015
+rsid = "2649588"
+# Original: T/T on chr1 at 1314015
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1314172
+rsid = "2477777"
+# Original: T/T on chr1 at 1314172
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1333598
+rsid = "35242196"
+# Original: A/C on chr1 at 1333598
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1335218
+rsid = "2291889"
+# Original: G/G on chr1 at 1335218
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1335302
+rsid = "1240707"
+# Original: C/C on chr1 at 1335302
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1335790
+rsid = "1240708"
+# Original: A/G on chr1 at 1335790
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1341185
+rsid = "17160977"
+# Original: A/A on chr1 at 1341185
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1356550
+rsid = "12089560"
+# Original: A/A on chr1 at 1356550
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1361463
+rsid = "12730443"
+# Original: C/C on chr1 at 1361463
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1366830
+rsid = "873927"
+# Original: A/G on chr1 at 1366830
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 1367193
+rsid = "35958305"
+# Original: T/G on chr1 at 1367193
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1385211
+rsid = "1312568"
+# Original: A/G on chr1 at 1385211
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1388268
+rsid = "36044796"
+# Original: A/C on chr1 at 1388268
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1404809
+rsid = "1240732"
+# Original: A/A on chr1 at 1404809
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1418112
+rsid = "2862157"
+# Original: A/A on chr1 at 1418112
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1425700
+rsid = "819980"
+# Original: T/T on chr1 at 1425700
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1447325
+rsid = "6690515"
+# Original: G/G on chr1 at 1447325
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1450947
+rsid = "6669795"
+# Original: A/A on chr1 at 1450947
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1453921
+rsid = "10159041"
+# Original: 0/0 on chr1 at 1453921
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1458954
+rsid = "3737714"
+# Original: 0/0 on chr1 at 1458954
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1465382
+rsid = "12032637"
+# Original: A/A on chr1 at 1465382
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1472047
+rsid = "3118505"
+# Original: T/C on chr1 at 1472047
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1472201
+rsid = "9782908"
+# Original: C/C on chr1 at 1472201
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1474167
+rsid = "1571149"
+# Original: A/G on chr1 at 1474167
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1477244
+rsid = "7290"
+# Original: T/C on chr1 at 1477244
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1477660
+rsid = "11807706"
+# Original: A/A on chr1 at 1477660
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1478153
+rsid = "3766180"
+# Original: T/C on chr1 at 1478153
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 1479333
+rsid = "7533"
+# Original: 0/0 on chr1 at 1479333
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1485984
+rsid = "2031709"
+# Original: C/C on chr1 at 1485984
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1489670
+rsid = "7531530"
+# Original: T/C on chr1 at 1489670
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1493727
+rsid = "880051"
+# Original: A/G on chr1 at 1493727
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1497824
+rsid = "2296716"
+# Original: T/C on chr1 at 1497824
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1499298
+rsid = "9439468"
+# Original: A/G on chr1 at 1499298
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1510801
+rsid = "7519837"
+# Original: T/C on chr1 at 1510801
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1519068
+rsid = "6687029"
+# Original: A/A on chr1 at 1519068
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1521595
+rsid = "6604983"
+# Original: A/G on chr1 at 1521595
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1549605
+rsid = "28430872"
+# Original: C/C on chr1 at 1549605
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1559971
+rsid = "12748433"
+# Original: T/T on chr1 at 1559971
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1560103
+rsid = "28635343"
+# Original: T/C on chr1 at 1560103
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1566160
+rsid = "28464684"
+# Original: C/C on chr1 at 1566160
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1567206
+rsid = "28456011"
+# Original: G/G on chr1 at 1567206
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1598908
+rsid = "35154105"
+# Original: A/A on chr1 at 1598908
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1610809
+rsid = "28707307"
+# Original: A/A on chr1 at 1610809
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1619541
+rsid = "28487995"
+# Original: A/G on chr1 at 1619541
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1627987
+rsid = "35261312"
+# Original: C/C on chr1 at 1627987
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1646574
+rsid = "760925"
+# Original: C/C on chr1 at 1646574
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1664124
+rsid = "2294489"
+# Original: C/C on chr1 at 1664124
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1684472
+rsid = "7407"
+# Original: T/C on chr1 at 1684472
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1691050
+rsid = "35672141"
+# Original: T/C on chr1 at 1691050
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1706136
+rsid = "6603811"
+# Original: C/C on chr1 at 1706136
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1706160
+rsid = "7531583"
+# Original: G/G on chr1 at 1706160
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 1707740
+rsid = "12041925"
+# Original: T/G on chr1 at 1707740
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1711414
+rsid = "867207"
+# Original: A/A on chr1 at 1711414
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1712230
+rsid = "10907194"
+# Original: T/C on chr1 at 1712230
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1715011
+rsid = "742359"
+# Original: A/C on chr1 at 1715011
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1721479
+rsid = "2272908"
+# Original: T/C on chr1 at 1721479
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1727391
+rsid = "12069909"
+# Original: G/G on chr1 at 1727391
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1731756
+rsid = "10159187"
+# Original: A/A on chr1 at 1731756
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1745726
+rsid = "16825336"
+# Original: A/G on chr1 at 1745726
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1762014
+rsid = "7553640"
+# Original: C/C on chr1 at 1762014
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1763774
+rsid = "11589067"
+# Original: G/G on chr1 at 1763774
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1776269
+rsid = "4648727"
+# Original: A/C on chr1 at 1776269
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1781220
+rsid = "6681938"
+# Original: T/T on chr1 at 1781220
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1793111
+rsid = "10907192"
+# Original: G/G on chr1 at 1793111
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1801034
+rsid = "4648592"
+# Original: A/G on chr1 at 1801034
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1804302
+rsid = "3855951"
+# Original: T/T on chr1 at 1804302
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1810090
+rsid = "7525092"
+# Original: T/C on chr1 at 1810090
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1812521
+rsid = "6603802"
+# Original: T/C on chr1 at 1812521
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1818129
+rsid = "16824526"
+# Original: A/A on chr1 at 1818129
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1827212
+rsid = "12093735"
+# Original: C/C on chr1 at 1827212
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1829482
+rsid = "745910"
+# Original: T/T on chr1 at 1829482
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1844046
+rsid = "2474460"
+# Original: T/C on chr1 at 1844046
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1846582
+rsid = "2748987"
+# Original: G/G on chr1 at 1846582
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1846765
+rsid = "2247560"
+# Original: A/G on chr1 at 1846765
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1847531
+rsid = "28710181"
+# Original: C/C on chr1 at 1847531
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1848734
+rsid = "941532"
+# Original: G/G on chr1 at 1848734
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1852484
+rsid = "28508199"
+# Original: A/G on chr1 at 1852484
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 1853394
+rsid = "2144687"
+# Original: T/T on chr1 at 1853394
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1854321
+rsid = "2250833"
+# Original: G/G on chr1 at 1854321
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1865298
+rsid = "2803316"
+# Original: A/G on chr1 at 1865298
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1874581
+rsid = "2803329"
+# Original: G/G on chr1 at 1874581
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1875267
+rsid = "2262190"
+# Original: G/G on chr1 at 1875267
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1886519
+rsid = "2748975"
+# Original: C/C on chr1 at 1886519
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 1888193
+rsid = "3820011"
+# Original: A/C on chr1 at 1888193
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1900232
+rsid = "16824588"
+# Original: T/C on chr1 at 1900232
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1926087
+rsid = "6661597"
+# Original: T/C on chr1 at 1926087
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1930754
+rsid = "6605081"
+# Original: T/C on chr1 at 1930754
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1941929
+rsid = "6656398"
+# Original: A/G on chr1 at 1941929
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1946591
+rsid = "13303016"
+# Original: A/G on chr1 at 1946591
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 1950621
+rsid = "28603108"
+# Original: A/G on chr1 at 1950621
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1954066
+rsid = "28669111"
+# Original: C/C on chr1 at 1954066
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1959022
+rsid = "28437090"
+# Original: C/C on chr1 at 1959022
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 1967954
+rsid = "2376803"
+# Original: T/C on chr1 at 1967954
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1970444
+rsid = "28706891"
+# Original: A/A on chr1 at 1970444
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1981118
+rsid = "3795277"
+# Original: A/A on chr1 at 1981118
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 1987803
+rsid = "2803309"
+# Original: G/G on chr1 at 1987803
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 1991014
+rsid = "1878745"
+# Original: A/A on chr1 at 1991014
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 1992748
+rsid = "6605074"
+# Original: C/C on chr1 at 1992748
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2000592
+rsid = "2678939"
+# Original: C/C on chr1 at 2000592
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2004098
+rsid = "6663158"
+# Original: G/G on chr1 at 2004098
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2006108
+rsid = "2254669"
+# Original: A/A on chr1 at 2006108
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2017297
+rsid = "2803310"
+# Original: T/T on chr1 at 2017297
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2024064
+rsid = "2459994"
+# Original: C/C on chr1 at 2024064
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2026403
+rsid = "3128326"
+# Original: T/C on chr1 at 2026403
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2026749
+rsid = "884080"
+# Original: A/G on chr1 at 2026749
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2027901
+rsid = "7513222"
+# Original: A/G on chr1 at 2027901
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2033256
+rsid = "908742"
+# Original: A/G on chr1 at 2033256
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2035684
+rsid = "10910030"
+# Original: T/C on chr1 at 2035684
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2038732
+rsid = "12410859"
+# Original: T/C on chr1 at 2038732
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2040898
+rsid = "4648807"
+# Original: T/C on chr1 at 2040898
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2040936
+rsid = "4648808"
+# Original: C/C on chr1 at 2040936
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2044037
+rsid = "925905"
+# Original: T/C on chr1 at 2044037
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2051513
+rsid = "3107151"
+# Original: T/G on chr1 at 2051513
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2056735
+rsid = "3107153"
+# Original: T/T on chr1 at 2056735
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2058023
+rsid = "3128291"
+# Original: G/G on chr1 at 2058023
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2068906
+rsid = "3128296"
+# Original: T/T on chr1 at 2068906
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2069681
+rsid = "3753242"
+# Original: C/C on chr1 at 2069681
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2070100
+rsid = "3128297"
+# Original: C/C on chr1 at 2070100
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2071340
+rsid = "424079"
+# Original: A/C on chr1 at 2071340
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2074104
+rsid = "12026349"
+# Original: G/G on chr1 at 2074104
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2075570
+rsid = "377283"
+# Original: T/C on chr1 at 2075570
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2082505
+rsid = "9442619"
+# Original: C/C on chr1 at 2082505
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2082566
+rsid = "2257182"
+# Original: T/C on chr1 at 2082566
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2100840
+rsid = "262643"
+# Original: C/C on chr1 at 2100840
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2117558
+rsid = "3123595"
+# Original: C/C on chr1 at 2117558
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2118339
+rsid = "262685"
+# Original: A/G on chr1 at 2118339
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2119833
+rsid = "2460002"
+# Original: A/G on chr1 at 2119833
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2121118
+rsid = "2503701"
+# Original: C/C on chr1 at 2121118
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2126380
+rsid = "12034613"
+# Original: G/G on chr1 at 2126380
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2129525
+rsid = "12566870"
+# Original: C/C on chr1 at 2129525
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2133695
+rsid = "12754312"
+# Original: T/T on chr1 at 2133695
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2133862
+rsid = "10910026"
+# Original: C/C on chr1 at 2133862
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2146966
+rsid = "7512482"
+# Original: T/T on chr1 at 2146966
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2156362
+rsid = "2460000"
+# Original: A/G on chr1 at 2156362
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2163568
+rsid = "263533"
+# Original: T/C on chr1 at 2163568
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2164116
+rsid = "263532"
+# Original: 0/0 on chr1 at 2164116
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2173504
+rsid = "263526"
+# Original: T/C on chr1 at 2173504
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2185886
+rsid = "16824947"
+# Original: C/C on chr1 at 2185886
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2189580
+rsid = "12084736"
+# Original: C/C on chr1 at 2189580
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2192433
+rsid = "10797417"
+# Original: A/A on chr1 at 2192433
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2195117
+rsid = "7547453"
+# Original: 0/0 on chr1 at 2195117
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2199057
+rsid = "11588312"
+# Original: C/C on chr1 at 2199057
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2202967
+rsid = "903908"
+# Original: T/C on chr1 at 2202967
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2204755
+rsid = "7553178"
+# Original: 0/0 on chr1 at 2204755
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2211849
+rsid = "10910047"
+# Original: A/A on chr1 at 2211849
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2218100
+rsid = "12119470"
+# Original: C/C on chr1 at 2218100
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2220649
+rsid = "2017143"
+# Original: T/C on chr1 at 2220649
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2221222
+rsid = "2643885"
+# Original: A/C on chr1 at 2221222
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2221534
+rsid = "903924"
+# Original: A/G on chr1 at 2221534
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2222583
+rsid = "903919"
+# Original: C/C on chr1 at 2222583
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2223866
+rsid = "884940"
+# Original: T/C on chr1 at 2223866
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2224836
+rsid = "12743493"
+# Original: A/G on chr1 at 2224836
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2224876
+rsid = "10910050"
+# Original: C/C on chr1 at 2224876
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2229478
+rsid = "12562937"
+# Original: C/C on chr1 at 2229478
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2231463
+rsid = "903916"
+# Original: T/C on chr1 at 2231463
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2234632
+rsid = "2279702"
+# Original: G/G on chr1 at 2234632
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2235672
+rsid = "2843159"
+# Original: T/C on chr1 at 2235672
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2240006
+rsid = "2173049"
+# Original: C/C on chr1 at 2240006
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2251160
+rsid = "12082516"
+# Original: T/T on chr1 at 2251160
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2254910
+rsid = "2645075"
+# Original: T/C on chr1 at 2254910
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2261222
+rsid = "2645065"
+# Original: A/C on chr1 at 2261222
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2263888
+rsid = "903904"
+# Original: C/C on chr1 at 2263888
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2265969
+rsid = "2843146"
+# Original: T/G on chr1 at 2265969
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2269948
+rsid = "2843143"
+# Original: T/C on chr1 at 2269948
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2270098
+rsid = "2843142"
+# Original: A/G on chr1 at 2270098
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2280661
+rsid = "2055204"
+# Original: A/G on chr1 at 2280661
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2281726
+rsid = "7527871"
+# Original: A/C on chr1 at 2281726
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2282135
+rsid = "10910053"
+# Original: 0/0 on chr1 at 2282135
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2283117
+rsid = "4648831"
+# Original: C/C on chr1 at 2283117
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2283161
+rsid = "2840525"
+# Original: A/A on chr1 at 2283161
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2283896
+rsid = "2840528"
+# Original: A/A on chr1 at 2283896
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2284003
+rsid = "2645082"
+# Original: T/C on chr1 at 2284003
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2284195
+rsid = "3795272"
+# Original: T/C on chr1 at 2284195
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2286408
+rsid = "2840531"
+# Original: C/C on chr1 at 2286408
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2289321
+rsid = "903914"
+# Original: G/G on chr1 at 2289321
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2292352
+rsid = "2643891"
+# Original: G/G on chr1 at 2292352
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2299651
+rsid = "2840538"
+# Original: T/C on chr1 at 2299651
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2301691
+rsid = "6665546"
+# Original: G/G on chr1 at 2301691
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2303512
+rsid = "10910061"
+# Original: G/G on chr1 at 2303512
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2303566
+rsid = "2840534"
+# Original: A/A on chr1 at 2303566
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2306152
+rsid = "12031614"
+# Original: T/C on chr1 at 2306152
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2306695
+rsid = "2279703"
+# Original: T/C on chr1 at 2306695
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2306972
+rsid = "7519807"
+# Original: A/G on chr1 at 2306972
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2308029
+rsid = "12070746"
+# Original: 0/0 on chr1 at 2308029
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2309082
+rsid = "2843160"
+# Original: T/G on chr1 at 2309082
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2310193
+rsid = "903901"
+# Original: G/G on chr1 at 2310193
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2314319
+rsid = "2643901"
+# Original: T/C on chr1 at 2314319
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2315717
+rsid = "2843127"
+# Original: A/G on chr1 at 2315717
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2319428
+rsid = "903903"
+# Original: A/G on chr1 at 2319428
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2325371
+rsid = "16825102"
+# Original: G/G on chr1 at 2325371
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2326009
+rsid = "1123571"
+# Original: A/G on chr1 at 2326009
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2327075
+rsid = "3736330"
+# Original: T/C on chr1 at 2327075
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2327815
+rsid = "2840532"
+# Original: T/C on chr1 at 2327815
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2328714
+rsid = "2645081"
+# Original: G/G on chr1 at 2328714
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2329808
+rsid = "3001344"
+# Original: G/G on chr1 at 2329808
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2330190
+rsid = "6693447"
+# Original: T/G on chr1 at 2330190
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2333031
+rsid = "3001336"
+# Original: A/A on chr1 at 2333031
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2336210
+rsid = "1129332"
+# Original: T/C on chr1 at 2336210
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2338569
+rsid = "2494427"
+# Original: C/C on chr1 at 2338569
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2338879
+rsid = "6671420"
+# Original: A/A on chr1 at 2338879
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2339074
+rsid = "2494428"
+# Original: T/T on chr1 at 2339074
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2345966
+rsid = "11811122"
+# Original: T/T on chr1 at 2345966
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2351699
+rsid = "3935659"
+# Original: C/C on chr1 at 2351699
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2352146
+rsid = "12731309"
+# Original: C/C on chr1 at 2352146
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2359280
+rsid = "2494435"
+# Original: T/C on chr1 at 2359280
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2359981
+rsid = "12022929"
+# Original: T/G on chr1 at 2359981
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2362020
+rsid = "4531246"
+# Original: T/G on chr1 at 2362020
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2362827
+rsid = "2494641"
+# Original: T/C on chr1 at 2362827
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2366316
+rsid = "4648843"
+# Original: C/C on chr1 at 2366316
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2369498
+rsid = "4592207"
+# Original: C/C on chr1 at 2369498
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2373089
+rsid = "6659405"
+# Original: T/G on chr1 at 2373089
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2376733
+rsid = "10449222"
+# Original: G/G on chr1 at 2376733
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2377400
+rsid = "4443836"
+# Original: G/G on chr1 at 2377400
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2379248
+rsid = "11581548"
+# Original: A/G on chr1 at 2379248
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2381568
+rsid = "867810"
+# Original: A/G on chr1 at 2381568
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2387101
+rsid = "4648845"
+# Original: T/C on chr1 at 2387101
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2390588
+rsid = "10910078"
+# Original: T/C on chr1 at 2390588
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2394226
+rsid = "4648636"
+# Original: T/G on chr1 at 2394226
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2404256
+rsid = "2494626"
+# Original: T/C on chr1 at 2404256
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2406887
+rsid = "13376356"
+# Original: C/C on chr1 at 2406887
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2408834
+rsid = "11588930"
+# Original: G/G on chr1 at 2408834
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2409276
+rsid = "12049628"
+# Original: G/G on chr1 at 2409276
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2411451
+rsid = "10797428"
+# Original: G/G on chr1 at 2411451
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2418625
+rsid = "7512269"
+# Original: C/C on chr1 at 2418625
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2418935
+rsid = "10910082"
+# Original: T/T on chr1 at 2418935
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2420913
+rsid = "6668720"
+# Original: G/G on chr1 at 2420913
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2424122
+rsid = "17373634"
+# Original: G/G on chr1 at 2424122
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2425992
+rsid = "2477703"
+# Original: T/C on chr1 at 2425992
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2427712
+rsid = "3762444"
+# Original: T/C on chr1 at 2427712
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2430617
+rsid = "2296442"
+# Original: T/C on chr1 at 2430617
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2439191
+rsid = "1107685"
+# Original: A/G on chr1 at 2439191
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2444414
+rsid = "7535528"
+# Original: A/G on chr1 at 2444414
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2445406
+rsid = "2247308"
+# Original: A/G on chr1 at 2445406
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2449711
+rsid = "3122920"
+# Original: G/G on chr1 at 2449711
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2454709
+rsid = "2494625"
+# Original: C/C on chr1 at 2454709
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2455863
+rsid = "1980789"
+# Original: A/A on chr1 at 2455863
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2456203
+rsid = "3122922"
+# Original: G/G on chr1 at 2456203
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2459166
+rsid = "7511947"
+# Original: C/C on chr1 at 2459166
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2465329
+rsid = "11584295"
+# Original: A/G on chr1 at 2465329
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2466633
+rsid = "2494606"
+# Original: G/G on chr1 at 2466633
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2473258
+rsid = "2495368"
+# Original: A/A on chr1 at 2473258
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2480337
+rsid = "10797430"
+# Original: G/G on chr1 at 2480337
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2489167
+rsid = "11573970"
+# Original: C/C on chr1 at 2489167
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2502780
+rsid = "6667605"
+# Original: C/C on chr1 at 2502780
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2504733
+rsid = "2260965"
+# Original: A/A on chr1 at 2504733
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2507415
+rsid = "4310388"
+# Original: G/G on chr1 at 2507415
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2513216
+rsid = "734999"
+# Original: C/C on chr1 at 2513216
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2521430
+rsid = "10910097"
+# Original: C/C on chr1 at 2521430
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2522392
+rsid = "2296443"
+# Original: A/G on chr1 at 2522392
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2524915
+rsid = "10752747"
+# Original: G/G on chr1 at 2524915
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2526746
+rsid = "3748816"
+# Original: A/A on chr1 at 2526746
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2528133
+rsid = "2843401"
+# Original: C/C on chr1 at 2528133
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2532416
+rsid = "2985859"
+# Original: C/C on chr1 at 2532416
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2538209
+rsid = "10910105"
+# Original: G/G on chr1 at 2538209
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2538738
+rsid = "12138909"
+# Original: C/C on chr1 at 2538738
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2539006
+rsid = "10797437"
+# Original: T/T on chr1 at 2539006
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2541269
+rsid = "10797440"
+# Original: A/A on chr1 at 2541269
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2544640
+rsid = "10752748"
+# Original: G/G on chr1 at 2544640
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2546229
+rsid = "6684865"
+# Original: G/G on chr1 at 2546229
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2551785
+rsid = "12117343"
+# Original: C/C on chr1 at 2551785
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2551900
+rsid = "11590198"
+# Original: G/G on chr1 at 2551900
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2553624
+rsid = "3890745"
+# Original: T/T on chr1 at 2553624
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2564183
+rsid = "6698817"
+# Original: C/C on chr1 at 2564183
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2586303
+rsid = "28688388"
+# Original: G/G on chr1 at 2586303
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2700372
+rsid = "4648390"
+# Original: C/C on chr1 at 2700372
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2713327
+rsid = "2377041"
+# Original: T/T on chr1 at 2713327
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2733587
+rsid = "10909890"
+# Original: G/G on chr1 at 2733587
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2739933
+rsid = "6665757"
+# Original: C/C on chr1 at 2739933
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2742491
+rsid = "12071313"
+# Original: A/A on chr1 at 2742491
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2745883
+rsid = "4609377"
+# Original: 0/0 on chr1 at 2745883
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2749921
+rsid = "4648482"
+# Original: T/C on chr1 at 2749921
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2756397
+rsid = "4648383"
+# Original: T/C on chr1 at 2756397
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2756621
+rsid = "4648384"
+# Original: A/C on chr1 at 2756621
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2761375
+rsid = "12049543"
+# Original: A/C on chr1 at 2761375
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2761863
+rsid = "1456460"
+# Original: T/G on chr1 at 2761863
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2779043
+rsid = "12409348"
+# Original: T/C on chr1 at 2779043
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 2785671
+rsid = "6683974"
+# Original: 0/0 on chr1 at 2785671
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2792801
+rsid = "16823103"
+# Original: C/C on chr1 at 2792801
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2794470
+rsid = "6676289"
+# Original: T/T on chr1 at 2794470
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2794551
+rsid = "10909793"
+# Original: G/G on chr1 at 2794551
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2797856
+rsid = "10797342"
+# Original: T/T on chr1 at 2797856
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2806107
+rsid = "3100865"
+# Original: T/G on chr1 at 2806107
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 2817421
+rsid = "2842910"
+# Original: T/C on chr1 at 2817421
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2824989
+rsid = "880725"
+# Original: A/G on chr1 at 2824989
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2833332
+rsid = "7340016"
+# Original: A/A on chr1 at 2833332
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2835692
+rsid = "897634"
+# Original: T/T on chr1 at 2835692
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 2839757
+rsid = "4648432"
+# Original: A/C on chr1 at 2839757
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2842270
+rsid = "2045331"
+# Original: A/G on chr1 at 2842270
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2842319
+rsid = "2045332"
+# Original: A/G on chr1 at 2842319
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2847488
+rsid = "2606411"
+# Original: C/C on chr1 at 2847488
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2849190
+rsid = "12403214"
+# Original: G/G on chr1 at 2849190
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 2850181
+rsid = "4648441"
+# Original: T/G on chr1 at 2850181
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2852707
+rsid = "10797368"
+# Original: C/C on chr1 at 2852707
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2853759
+rsid = "16823228"
+# Original: G/G on chr1 at 2853759
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2859724
+rsid = "2842909"
+# Original: C/C on chr1 at 2859724
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2862320
+rsid = "7539511"
+# Original: T/T on chr1 at 2862320
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2865901
+rsid = "7541664"
+# Original: C/C on chr1 at 2865901
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2867961
+rsid = "2842933"
+# Original: A/A on chr1 at 2867961
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2870850
+rsid = "2606418"
+# Original: G/G on chr1 at 2870850
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2876525
+rsid = "10909845"
+# Original: T/T on chr1 at 2876525
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2878366
+rsid = "11583804"
+# Original: G/G on chr1 at 2878366
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 2879640
+rsid = "878201"
+# Original: A/G on chr1 at 2879640
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2883858
+rsid = "2485944"
+# Original: C/C on chr1 at 2883858
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2883932
+rsid = "2485945"
+# Original: T/T on chr1 at 2883932
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2886988
+rsid = "4072769"
+# Original: G/G on chr1 at 2886988
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2889577
+rsid = "12044030"
+# Original: T/T on chr1 at 2889577
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2891713
+rsid = "12046158"
+# Original: T/T on chr1 at 2891713
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2898960
+rsid = "6681741"
+# Original: C/C on chr1 at 2898960
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2902128
+rsid = "1572657"
+# Original: T/T on chr1 at 2902128
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2902227
+rsid = "16823022"
+# Original: G/G on chr1 at 2902227
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2903380
+rsid = "11807605"
+# Original: G/G on chr1 at 2903380
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2905605
+rsid = "10909852"
+# Original: T/T on chr1 at 2905605
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2909170
+rsid = "4489496"
+# Original: G/G on chr1 at 2909170
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2917377
+rsid = "12025260"
+# Original: T/T on chr1 at 2917377
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2919942
+rsid = "12022429"
+# Original: G/G on chr1 at 2919942
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2921909
+rsid = "6683516"
+# Original: T/T on chr1 at 2921909
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2924666
+rsid = "12562637"
+# Original: C/C on chr1 at 2924666
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2928421
+rsid = "7534897"
+# Original: C/C on chr1 at 2928421
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2938265
+rsid = "4576609"
+# Original: C/C on chr1 at 2938265
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2938697
+rsid = "3795262"
+# Original: T/T on chr1 at 2938697
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2938989
+rsid = "3795263"
+# Original: G/G on chr1 at 2938989
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2939409
+rsid = "12564513"
+# Original: G/G on chr1 at 2939409
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2943183
+rsid = "7412983"
+# Original: A/A on chr1 at 2943183
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2944527
+rsid = "2142569"
+# Original: G/G on chr1 at 2944527
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2956666
+rsid = "2993510"
+# Original: T/T on chr1 at 2956666
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 2970464
+rsid = "717795"
+# Original: T/T on chr1 at 2970464
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2973322
+rsid = "2993480"
+# Original: C/C on chr1 at 2973322
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2974742
+rsid = "1125017"
+# Original: C/C on chr1 at 2974742
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 2983963
+rsid = "2297828"
+# Original: G/G on chr1 at 2983963
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 2984087
+rsid = "2297829"
+# Original: A/A on chr1 at 2984087
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 2996602
+rsid = "1569419"
+# Original: C/C on chr1 at 2996602
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3000465
+rsid = "760567"
+# Original: G/G on chr1 at 3000465
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3000924
+rsid = "6695131"
+# Original: T/C on chr1 at 3000924
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3006283
+rsid = "926244"
+# Original: A/A on chr1 at 3006283
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3009969
+rsid = "7543737"
+# Original: A/G on chr1 at 3009969
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3013690
+rsid = "2817168"
+# Original: G/G on chr1 at 3013690
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3020246
+rsid = "2993493"
+# Original: C/C on chr1 at 3020246
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 3024265
+rsid = "1890336"
+# Original: A/C on chr1 at 3024265
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3025712
+rsid = "4648453"
+# Original: T/G on chr1 at 3025712
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3035227
+rsid = "6690373"
+# Original: A/G on chr1 at 3035227
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3037613
+rsid = "876740"
+# Original: C/C on chr1 at 3037613
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3044181
+rsid = "2817174"
+# Original: T/T on chr1 at 3044181
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3047252
+rsid = "2817178"
+# Original: T/T on chr1 at 3047252
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3049713
+rsid = "10909882"
+# Original: G/G on chr1 at 3049713
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3054106
+rsid = "2235176"
+# Original: C/C on chr1 at 3054106
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3055876
+rsid = "10797380"
+# Original: G/G on chr1 at 3055876
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3057661
+rsid = "7538096"
+# Original: T/C on chr1 at 3057661
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3062361
+rsid = "2817185"
+# Original: A/G on chr1 at 3062361
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3072692
+rsid = "731031"
+# Original: T/C on chr1 at 3072692
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3074306
+rsid = "2651902"
+# Original: T/C on chr1 at 3074306
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3080019
+rsid = "2742673"
+# Original: T/G on chr1 at 3080019
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3083712
+rsid = "2651899"
+# Original: T/C on chr1 at 3083712
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3086464
+rsid = "7518255"
+# Original: 0/0 on chr1 at 3086464
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3086496
+rsid = "2651935"
+# Original: T/C on chr1 at 3086496
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3089849
+rsid = "17390062"
+# Original: T/T on chr1 at 3089849
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3097073
+rsid = "12733843"
+# Original: G/G on chr1 at 3097073
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3101762
+rsid = "2651927"
+# Original: A/A on chr1 at 3101762
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3103826
+rsid = "4233024"
+# Original: T/T on chr1 at 3103826
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3104630
+rsid = "10752733"
+# Original: G/G on chr1 at 3104630
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3105493
+rsid = "7545618"
+# Original: T/T on chr1 at 3105493
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3107386
+rsid = "12139196"
+# Original: G/G on chr1 at 3107386
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3108496
+rsid = "10737190"
+# Original: A/A on chr1 at 3108496
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3109151
+rsid = "7539775"
+# Original: A/A on chr1 at 3109151
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3110735
+rsid = "2651912"
+# Original: T/C on chr1 at 3110735
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3111669
+rsid = "12094678"
+# Original: G/G on chr1 at 3111669
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3119729
+rsid = "4308918"
+# Original: G/G on chr1 at 3119729
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3131235
+rsid = "10909901"
+# Original: C/C on chr1 at 3131235
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3134331
+rsid = "12124147"
+# Original: T/C on chr1 at 3134331
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3135175
+rsid = "2651906"
+# Original: C/C on chr1 at 3135175
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3137397
+rsid = "2651897"
+# Original: C/C on chr1 at 3137397
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3138111
+rsid = "2651895"
+# Original: G/G on chr1 at 3138111
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3140464
+rsid = "16823542"
+# Original: C/C on chr1 at 3140464
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3141616
+rsid = "16823551"
+# Original: G/G on chr1 at 3141616
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3144745
+rsid = "1553288"
+# Original: C/C on chr1 at 3144745
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3146497
+rsid = "10157420"
+# Original: T/T on chr1 at 3146497
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3147030
+rsid = "6424069"
+# Original: T/T on chr1 at 3147030
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3147899
+rsid = "10909905"
+# Original: G/G on chr1 at 3147899
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3149145
+rsid = "2817158"
+# Original: G/G on chr1 at 3149145
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3150345
+rsid = "12036784"
+# Original: G/G on chr1 at 3150345
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3153237
+rsid = "11807062"
+# Original: A/A on chr1 at 3153237
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3155102
+rsid = "2249336"
+# Original: T/T on chr1 at 3155102
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3157614
+rsid = "905138"
+# Original: G/G on chr1 at 3157614
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3162209
+rsid = "2455118"
+# Original: A/A on chr1 at 3162209
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3168280
+rsid = "10797386"
+# Original: G/G on chr1 at 3168280
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3177480
+rsid = "3002685"
+# Original: A/A on chr1 at 3177480
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3178111
+rsid = "3002686"
+# Original: C/C on chr1 at 3178111
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3180158
+rsid = "2455107"
+# Original: T/T on chr1 at 3180158
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3180633
+rsid = "2455102"
+# Original: A/A on chr1 at 3180633
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3189006
+rsid = "2455125"
+# Original: G/G on chr1 at 3189006
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3196680
+rsid = "16823027"
+# Original: G/G on chr1 at 3196680
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3197747
+rsid = "10492940"
+# Original: C/C on chr1 at 3197747
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3199217
+rsid = "16823802"
+# Original: C/C on chr1 at 3199217
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3199484
+rsid = "905135"
+# Original: A/A on chr1 at 3199484
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3199634
+rsid = "12562988"
+# Original: G/G on chr1 at 3199634
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3200376
+rsid = "13374621"
+# Original: C/C on chr1 at 3200376
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3208375
+rsid = "10909918"
+# Original: G/G on chr1 at 3208375
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3208830
+rsid = "12757342"
+# Original: T/T on chr1 at 3208830
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3209923
+rsid = "1553291"
+# Original: G/G on chr1 at 3209923
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3211458
+rsid = "4648377"
+# Original: C/C on chr1 at 3211458
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3214732
+rsid = "2455144"
+# Original: G/G on chr1 at 3214732
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3217151
+rsid = "2455137"
+# Original: T/T on chr1 at 3217151
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3219901
+rsid = "2455135"
+# Original: G/G on chr1 at 3219901
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3220101
+rsid = "6673393"
+# Original: T/T on chr1 at 3220101
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3221371
+rsid = "7517281"
+# Original: G/G on chr1 at 3221371
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3225940
+rsid = "2500278"
+# Original: T/T on chr1 at 3225940
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3227188
+rsid = "2483260"
+# Original: A/A on chr1 at 3227188
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3228915
+rsid = "12409345"
+# Original: 0/0 on chr1 at 3228915
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3229185
+rsid = "12743017"
+# Original: G/G on chr1 at 3229185
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3230544
+rsid = "16824089"
+# Original: T/T on chr1 at 3230544
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3236041
+rsid = "2483266"
+# Original: T/T on chr1 at 3236041
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3240199
+rsid = "870465"
+# Original: A/G on chr1 at 3240199
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3241135
+rsid = "1108600"
+# Original: C/C on chr1 at 3241135
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3241829
+rsid = "2500271"
+# Original: A/A on chr1 at 3241829
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3243017
+rsid = "10909930"
+# Original: T/G on chr1 at 3243017
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3248098
+rsid = "2483274"
+# Original: A/G on chr1 at 3248098
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3251159
+rsid = "1110307"
+# Original: T/T on chr1 at 3251159
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3252104
+rsid = "2483278"
+# Original: T/C on chr1 at 3252104
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3252169
+rsid = "2483279"
+# Original: A/G on chr1 at 3252169
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3253889
+rsid = "7516150"
+# Original: C/C on chr1 at 3253889
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3253941
+rsid = "7552331"
+# Original: G/G on chr1 at 3253941
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3259113
+rsid = "882430"
+# Original: G/G on chr1 at 3259113
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3259183
+rsid = "6683273"
+# Original: A/G on chr1 at 3259183
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3261682
+rsid = "4415513"
+# Original: C/C on chr1 at 3261682
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3261925
+rsid = "4648380"
+# Original: G/G on chr1 at 3261925
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 3264190
+rsid = "2483289"
+# Original: A/C on chr1 at 3264190
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3269828
+rsid = "2483256"
+# Original: A/A on chr1 at 3269828
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3273063
+rsid = "946758"
+# Original: A/G on chr1 at 3273063
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3275149
+rsid = "12748963"
+# Original: T/C on chr1 at 3275149
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3276138
+rsid = "2500286"
+# Original: A/A on chr1 at 3276138
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3276374
+rsid = "12073172"
+# Original: A/G on chr1 at 3276374
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3278959
+rsid = "17399569"
+# Original: C/C on chr1 at 3278959
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3279324
+rsid = "7524171"
+# Original: G/G on chr1 at 3279324
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3280021
+rsid = "2500262"
+# Original: C/C on chr1 at 3280021
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3285304
+rsid = "4648487"
+# Original: T/C on chr1 at 3285304
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3285860
+rsid = "4648381"
+# Original: G/G on chr1 at 3285860
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3289524
+rsid = "12135987"
+# Original: A/G on chr1 at 3289524
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3289729
+rsid = "1333190"
+# Original: T/C on chr1 at 3289729
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3289971
+rsid = "1333189"
+# Original: T/C on chr1 at 3289971
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 3291139
+rsid = "2249860"
+# Original: A/C on chr1 at 3291139
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3292984
+rsid = "2493311"
+# Original: C/C on chr1 at 3292984
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3293665
+rsid = "4648489"
+# Original: A/G on chr1 at 3293665
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3294422
+rsid = "2493310"
+# Original: A/A on chr1 at 3294422
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3294972
+rsid = "1538693"
+# Original: A/A on chr1 at 3294972
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3297638
+rsid = "12085231"
+# Original: C/C on chr1 at 3297638
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3300807
+rsid = "868688"
+# Original: T/T on chr1 at 3300807
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3304336
+rsid = "10492938"
+# Original: C/C on chr1 at 3304336
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3305016
+rsid = "17399998"
+# Original: C/C on chr1 at 3305016
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3307746
+rsid = "2493278"
+# Original: C/C on chr1 at 3307746
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3308034
+rsid = "2493275"
+# Original: G/G on chr1 at 3308034
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3312256
+rsid = "17822575"
+# Original: T/T on chr1 at 3312256
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3312914
+rsid = "871822"
+# Original: G/G on chr1 at 3312914
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3315818
+rsid = "7542793"
+# Original: A/A on chr1 at 3315818
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3317780
+rsid = "6424074"
+# Original: A/A on chr1 at 3317780
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3318532
+rsid = "11578011"
+# Original: C/C on chr1 at 3318532
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3320799
+rsid = "12024847"
+# Original: T/T on chr1 at 3320799
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3325037
+rsid = "2483225"
+# Original: T/T on chr1 at 3325037
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3328358
+rsid = "870124"
+# Original: C/C on chr1 at 3328358
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3328659
+rsid = "2493292"
+# Original: C/C on chr1 at 3328659
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3333595
+rsid = "2493285"
+# Original: G/G on chr1 at 3333595
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3336200
+rsid = "1984069"
+# Original: T/T on chr1 at 3336200
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3339339
+rsid = "10492937"
+# Original: 0/0 on chr1 at 3339339
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3340855
+rsid = "4648500"
+# Original: C/C on chr1 at 3340855
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3342530
+rsid = "2244013"
+# Original: G/G on chr1 at 3342530
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3342804
+rsid = "870171"
+# Original: G/G on chr1 at 3342804
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3349513
+rsid = "2493272"
+# Original: T/T on chr1 at 3349513
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3352872
+rsid = "2236518"
+# Original: A/A on chr1 at 3352872
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 3356405
+rsid = "2483250"
+# Original: A/C on chr1 at 3356405
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3362256
+rsid = "867814"
+# Original: T/C on chr1 at 3362256
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3368143
+rsid = "2487670"
+# Original: A/G on chr1 at 3368143
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3377343
+rsid = "2487681"
+# Original: T/C on chr1 at 3377343
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3377442
+rsid = "2487680"
+# Original: T/C on chr1 at 3377442
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3381698
+rsid = "12562167"
+# Original: G/G on chr1 at 3381698
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3383038
+rsid = "947351"
+# Original: 0/0 on chr1 at 3383038
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3389727
+rsid = "2185639"
+# Original: T/C on chr1 at 3389727
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3393037
+rsid = "12124163"
+# Original: T/G on chr1 at 3393037
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3395039
+rsid = "10797395"
+# Original: A/G on chr1 at 3395039
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3400294
+rsid = "2493314"
+# Original: T/G on chr1 at 3400294
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3405296
+rsid = "4648505"
+# Original: T/C on chr1 at 3405296
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3406791
+rsid = "2821040"
+# Original: A/A on chr1 at 3406791
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3407007
+rsid = "2821039"
+# Original: G/G on chr1 at 3407007
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3411413
+rsid = "2821038"
+# Original: C/C on chr1 at 3411413
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3416449
+rsid = "7553399"
+# Original: A/A on chr1 at 3416449
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3423467
+rsid = "947344"
+# Original: C/C on chr1 at 3423467
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3431235
+rsid = "7543634"
+# Original: A/A on chr1 at 3431235
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3441264
+rsid = "12093117"
+# Original: G/G on chr1 at 3441264
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3446813
+rsid = "4648392"
+# Original: G/G on chr1 at 3446813
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3450637
+rsid = "10797400"
+# Original: C/C on chr1 at 3450637
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3450985
+rsid = "2794323"
+# Original: T/T on chr1 at 3450985
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3451005
+rsid = "12119711"
+# Original: T/T on chr1 at 3451005
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3456592
+rsid = "4648524"
+# Original: T/G on chr1 at 3456592
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3456871
+rsid = "10737192"
+# Original: G/G on chr1 at 3456871
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3457295
+rsid = "947347"
+# Original: A/A on chr1 at 3457295
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3464451
+rsid = "6685801"
+# Original: T/T on chr1 at 3464451
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3472393
+rsid = "7516641"
+# Original: A/G on chr1 at 3472393
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3472397
+rsid = "7516644"
+# Original: A/A on chr1 at 3472397
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3472928
+rsid = "878063"
+# Original: T/T on chr1 at 3472928
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3473345
+rsid = "9628616"
+# Original: C/C on chr1 at 3473345
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3474468
+rsid = "10909966"
+# Original: C/C on chr1 at 3474468
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3474626
+rsid = "2821063"
+# Original: G/G on chr1 at 3474626
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3477902
+rsid = "2821060"
+# Original: C/C on chr1 at 3477902
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3479742
+rsid = "10909968"
+# Original: A/A on chr1 at 3479742
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3483361
+rsid = "880801"
+# Original: G/G on chr1 at 3483361
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3487126
+rsid = "947354"
+# Original: C/C on chr1 at 3487126
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3493819
+rsid = "7513251"
+# Original: C/C on chr1 at 3493819
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3493850
+rsid = "2821054"
+# Original: G/G on chr1 at 3493850
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3494079
+rsid = "12080677"
+# Original: G/G on chr1 at 3494079
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3495672
+rsid = "10909973"
+# Original: G/G on chr1 at 3495672
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3495981
+rsid = "2794341"
+# Original: 0/0 on chr1 at 3495981
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3496479
+rsid = "2794340"
+# Original: C/C on chr1 at 3496479
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3497109
+rsid = "2821050"
+# Original: A/A on chr1 at 3497109
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3499067
+rsid = "10909974"
+# Original: T/T on chr1 at 3499067
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3500575
+rsid = "2995009"
+# Original: G/G on chr1 at 3500575
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3504073
+rsid = "12139206"
+# Original: T/T on chr1 at 3504073
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3506497
+rsid = "2794320"
+# Original: A/A on chr1 at 3506497
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3507861
+rsid = "4648527"
+# Original: A/A on chr1 at 3507861
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3510633
+rsid = "6697749"
+# Original: A/A on chr1 at 3510633
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3511295
+rsid = "7544357"
+# Original: A/A on chr1 at 3511295
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3512341
+rsid = "2794327"
+# Original: T/C on chr1 at 3512341
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3512516
+rsid = "2821025"
+# Original: C/C on chr1 at 3512516
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3512800
+rsid = "2821023"
+# Original: C/C on chr1 at 3512800
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3522561
+rsid = "35701577"
+# Original: T/C on chr1 at 3522561
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3531595
+rsid = "4648398"
+# Original: T/T on chr1 at 3531595
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3538501
+rsid = "4364818"
+# Original: T/C on chr1 at 3538501
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3539082
+rsid = "10909989"
+# Original: G/G on chr1 at 3539082
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3539481
+rsid = "10909990"
+# Original: G/G on chr1 at 3539481
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3540024
+rsid = "12757620"
+# Original: T/G on chr1 at 3540024
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3542969
+rsid = "16823920"
+# Original: A/A on chr1 at 3542969
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3544346
+rsid = "4276857"
+# Original: T/C on chr1 at 3544346
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3545612
+rsid = "1128474"
+# Original: A/G on chr1 at 3545612
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3546935
+rsid = "2821007"
+# Original: G/G on chr1 at 3546935
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3548198
+rsid = "16823940"
+# Original: C/C on chr1 at 3548198
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3558228
+rsid = "7528494"
+# Original: C/C on chr1 at 3558228
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3561008
+rsid = "12408890"
+# Original: T/C on chr1 at 3561008
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3566706
+rsid = "2251098"
+# Original: 0/0 on chr1 at 3566706
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3568162
+rsid = "1004650"
+# Original: G/G on chr1 at 3568162
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3575929
+rsid = "10910003"
+# Original: G/G on chr1 at 3575929
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3576060
+rsid = "2224718"
+# Original: T/C on chr1 at 3576060
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3577321
+rsid = "4648545"
+# Original: G/G on chr1 at 3577321
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3577790
+rsid = "6703610"
+# Original: C/C on chr1 at 3577790
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3585041
+rsid = "7523732"
+# Original: T/T on chr1 at 3585041
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3587377
+rsid = "3765695"
+# Original: C/C on chr1 at 3587377
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3592187
+rsid = "3765702"
+# Original: T/C on chr1 at 3592187
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3592436
+rsid = "3765703"
+# Original: T/G on chr1 at 3592436
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3597017
+rsid = "3765705"
+# Original: G/G on chr1 at 3597017
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3600799
+rsid = "3765712"
+# Original: G/G on chr1 at 3600799
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3601940
+rsid = "3765716"
+# Original: A/G on chr1 at 3601940
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3605097
+rsid = "1885872"
+# Original: A/A on chr1 at 3605097
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3611892
+rsid = "3765731"
+# Original: A/G on chr1 at 3611892
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3615156
+rsid = "12032272"
+# Original: 0/0 on chr1 at 3615156
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3616601
+rsid = "3765736"
+# Original: C/C on chr1 at 3616601
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3628663
+rsid = "6424089"
+# Original: A/G on chr1 at 3628663
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3628677
+rsid = "6424090"
+# Original: G/G on chr1 at 3628677
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3630476
+rsid = "3765761"
+# Original: T/C on chr1 at 3630476
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3632608
+rsid = "3753211"
+# Original: T/C on chr1 at 3632608
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3633380
+rsid = "3819967"
+# Original: 0/0 on chr1 at 3633380
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3633537
+rsid = "3765764"
+# Original: A/A on chr1 at 3633537
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3634660
+rsid = "3765766"
+# Original: C/C on chr1 at 3634660
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3636347
+rsid = "747827"
+# Original: A/A on chr1 at 3636347
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3637459
+rsid = "12731705"
+# Original: T/C on chr1 at 3637459
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3637613
+rsid = "2146658"
+# Original: G/G on chr1 at 3637613
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3645052
+rsid = "12095248"
+# Original: A/A on chr1 at 3645052
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3646137
+rsid = "11589885"
+# Original: T/T on chr1 at 3646137
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3646291
+rsid = "1885865"
+# Original: A/A on chr1 at 3646291
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3647962
+rsid = "1745813"
+# Original: C/C on chr1 at 3647962
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3648879
+rsid = "4648553"
+# Original: A/A on chr1 at 3648879
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3649562
+rsid = "9662633"
+# Original: G/G on chr1 at 3649562
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3651126
+rsid = "1181868"
+# Original: T/T on chr1 at 3651126
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3651318
+rsid = "1181867"
+# Original: G/G on chr1 at 3651318
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3653426
+rsid = "1181865"
+# Original: C/C on chr1 at 3653426
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3654595
+rsid = "7514979"
+# Original: C/C on chr1 at 3654595
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3654747
+rsid = "7515164"
+# Original: C/C on chr1 at 3654747
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3657759
+rsid = "12117836"
+# Original: A/G on chr1 at 3657759
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3659742
+rsid = "2298223"
+# Original: C/C on chr1 at 3659742
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3662845
+rsid = "3737589"
+# Original: A/G on chr1 at 3662845
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3668004
+rsid = "4648554"
+# Original: T/C on chr1 at 3668004
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3668753
+rsid = "12128253"
+# Original: 0/0 on chr1 at 3668753
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3671791
+rsid = "1181888"
+# Original: A/G on chr1 at 3671791
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3677933
+rsid = "1181883"
+# Original: C/C on chr1 at 3677933
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3679775
+rsid = "10910024"
+# Original: T/C on chr1 at 3679775
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3680643
+rsid = "1181878"
+# Original: A/A on chr1 at 3680643
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3680729
+rsid = "1181877"
+# Original: T/T on chr1 at 3680729
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3681831
+rsid = "1181875"
+# Original: T/C on chr1 at 3681831
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 3682070
+rsid = "1181874"
+# Original: A/C on chr1 at 3682070
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3684185
+rsid = "10910025"
+# Original: G/G on chr1 at 3684185
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3689408
+rsid = "2275819"
+# Original: A/G on chr1 at 3689408
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3691727
+rsid = "1175549"
+# Original: A/A on chr1 at 3691727
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3696000
+rsid = "2799182"
+# Original: T/T on chr1 at 3696000
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3696356
+rsid = "12061931"
+# Original: C/C on chr1 at 3696356
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3696890
+rsid = "8379"
+# Original: A/A on chr1 at 3696890
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3697035
+rsid = "17411356"
+# Original: A/A on chr1 at 3697035
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3701663
+rsid = "2298227"
+# Original: T/T on chr1 at 3701663
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3706538
+rsid = "9424284"
+# Original: T/C on chr1 at 3706538
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3709412
+rsid = "12728911"
+# Original: T/T on chr1 at 3709412
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3709487
+rsid = "7513053"
+# Original: A/A on chr1 at 3709487
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3730729
+rsid = "11805724"
+# Original: G/G on chr1 at 3730729
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3732596
+rsid = "6662706"
+# Original: G/G on chr1 at 3732596
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3736319
+rsid = "9424303"
+# Original: A/G on chr1 at 3736319
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3741782
+rsid = "7552969"
+# Original: T/C on chr1 at 3741782
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3742009
+rsid = "9424290"
+# Original: T/C on chr1 at 3742009
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3742257
+rsid = "12759497"
+# Original: C/C on chr1 at 3742257
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3743319
+rsid = "6663840"
+# Original: A/G on chr1 at 3743319
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3744084
+rsid = "9424310"
+# Original: A/G on chr1 at 3744084
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3745924
+rsid = "2275831"
+# Original: A/G on chr1 at 3745924
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3747580
+rsid = "6424058"
+# Original: T/C on chr1 at 3747580
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 3748085
+rsid = "7522227"
+# Original: A/G on chr1 at 3748085
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 3754596
+rsid = "6683827"
+# Original: T/G on chr1 at 3754596
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3755675
+rsid = "1891941"
+# Original: T/C on chr1 at 3755675
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3757749
+rsid = "12744607"
+# Original: G/G on chr1 at 3757749
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 3761479
+rsid = "2275822"
+# Original: T/C on chr1 at 3761479
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3765424
+rsid = "10492943"
+# Original: G/G on chr1 at 3765424
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3772359
+rsid = "4564078"
+# Original: C/C on chr1 at 3772359
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3773089
+rsid = "4648426"
+# Original: T/T on chr1 at 3773089
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3781096
+rsid = "10797348"
+# Original: C/C on chr1 at 3781096
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3786245
+rsid = "12738235"
+# Original: G/G on chr1 at 3786245
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3789852
+rsid = "12756705"
+# Original: C/C on chr1 at 3789852
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3793324
+rsid = "6668103"
+# Original: A/A on chr1 at 3793324
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3794273
+rsid = "12132240"
+# Original: C/C on chr1 at 3794273
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3796948
+rsid = "4074709"
+# Original: G/G on chr1 at 3796948
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3797964
+rsid = "12039666"
+# Original: C/C on chr1 at 3797964
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3800118
+rsid = "12564400"
+# Original: A/A on chr1 at 3800118
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3803755
+rsid = "7367066"
+# Original: T/T on chr1 at 3803755
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3805098
+rsid = "7530189"
+# Original: C/C on chr1 at 3805098
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3806335
+rsid = "10797351"
+# Original: G/G on chr1 at 3806335
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3806358
+rsid = "10909819"
+# Original: T/T on chr1 at 3806358
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 3806973
+rsid = "12073945"
+# Original: A/A on chr1 at 3806973
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3807388
+rsid = "4131373"
+# Original: G/G on chr1 at 3807388
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3807450
+rsid = "10909820"
+# Original: C/C on chr1 at 3807450
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3808362
+rsid = "4446914"
+# Original: G/G on chr1 at 3808362
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 3811810
+rsid = "12082157"
+# Original: T/T on chr1 at 3811810
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 3821782
+rsid = "11589102"
+# Original: G/G on chr1 at 3821782
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3822703
+rsid = "10909830"
+# Original: C/C on chr1 at 3822703
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 3842112
+rsid = "34835780"
+# Original: C/C on chr1 at 3842112
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 3996946
+rsid = "6695346"
+# Original: 0/0 on chr1 at 3996946
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4002498
+rsid = "7538691"
+# Original: T/T on chr1 at 4002498
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4002832
+rsid = "12724233"
+# Original: A/G on chr1 at 4002832
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4002958
+rsid = "10915568"
+# Original: G/G on chr1 at 4002958
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4004250
+rsid = "11583257"
+# Original: C/C on chr1 at 4004250
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4005693
+rsid = "7524279"
+# Original: G/G on chr1 at 4005693
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4006060
+rsid = "7548668"
+# Original: T/C on chr1 at 4006060
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4007008
+rsid = "7519349"
+# Original: A/G on chr1 at 4007008
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4007110
+rsid = "7519458"
+# Original: A/G on chr1 at 4007110
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4007558
+rsid = "10737395"
+# Original: C/C on chr1 at 4007558
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4007688
+rsid = "12090228"
+# Original: A/A on chr1 at 4007688
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4009071
+rsid = "10799181"
+# Original: T/T on chr1 at 4009071
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4009694
+rsid = "4654479"
+# Original: G/G on chr1 at 4009694
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4009793
+rsid = "4654480"
+# Original: C/C on chr1 at 4009793
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4009956
+rsid = "6661168"
+# Original: C/C on chr1 at 4009956
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4010743
+rsid = "4654482"
+# Original: A/G on chr1 at 4010743
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4012472
+rsid = "11590912"
+# Original: A/C on chr1 at 4012472
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4013618
+rsid = "10799202"
+# Original: G/G on chr1 at 4013618
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4013954
+rsid = "12119556"
+# Original: A/G on chr1 at 4013954
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4014091
+rsid = "10915433"
+# Original: T/T on chr1 at 4014091
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4015382
+rsid = "6681347"
+# Original: T/T on chr1 at 4015382
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4017137
+rsid = "7522140"
+# Original: T/T on chr1 at 4017137
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4026068
+rsid = "12031275"
+# Original: A/A on chr1 at 4026068
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4026098
+rsid = "7550609"
+# Original: C/C on chr1 at 4026098
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4027590
+rsid = "6693909"
+# Original: C/C on chr1 at 4027590
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4029733
+rsid = "10915495"
+# Original: T/T on chr1 at 4029733
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4031327
+rsid = "3935162"
+# Original: A/A on chr1 at 4031327
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4034097
+rsid = "12031557"
+# Original: A/A on chr1 at 4034097
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4035129
+rsid = "10799224"
+# Original: A/A on chr1 at 4035129
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4039896
+rsid = "11587331"
+# Original: T/T on chr1 at 4039896
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4052956
+rsid = "10799236"
+# Original: A/A on chr1 at 4052956
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4054067
+rsid = "6691155"
+# Original: T/T on chr1 at 4054067
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4057488
+rsid = "12135298"
+# Original: G/G on chr1 at 4057488
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4066781
+rsid = "4128222"
+# Original: C/C on chr1 at 4066781
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4068052
+rsid = "6675979"
+# Original: G/G on chr1 at 4068052
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4068146
+rsid = "12731145"
+# Original: 0/0 on chr1 at 4068146
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4078448
+rsid = "4129100"
+# Original: G/G on chr1 at 4078448
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4080764
+rsid = "4323679"
+# Original: C/C on chr1 at 4080764
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4082105
+rsid = "10915600"
+# Original: 0/0 on chr1 at 4082105
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4092949
+rsid = "10915659"
+# Original: G/G on chr1 at 4092949
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4094068
+rsid = "12137595"
+# Original: C/C on chr1 at 4094068
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4104757
+rsid = "12036953"
+# Original: A/A on chr1 at 4104757
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4108282
+rsid = "4654402"
+# Original: T/C on chr1 at 4108282
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4111187
+rsid = "12749761"
+# Original: A/G on chr1 at 4111187
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4111741
+rsid = "4553153"
+# Original: T/C on chr1 at 4111741
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4113096
+rsid = "4266850"
+# Original: G/G on chr1 at 4113096
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4117238
+rsid = "4654404"
+# Original: T/C on chr1 at 4117238
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4118987
+rsid = "10799175"
+# Original: T/C on chr1 at 4118987
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4119422
+rsid = "10915366"
+# Original: G/G on chr1 at 4119422
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4119662
+rsid = "9792946"
+# Original: A/A on chr1 at 4119662
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4120311
+rsid = "7514530"
+# Original: T/C on chr1 at 4120311
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4120898
+rsid = "4233258"
+# Original: T/C on chr1 at 4120898
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4121105
+rsid = "10915373"
+# Original: A/G on chr1 at 4121105
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4121584
+rsid = "7524800"
+# Original: A/G on chr1 at 4121584
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4121747
+rsid = "12041796"
+# Original: C/C on chr1 at 4121747
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4123099
+rsid = "6669278"
+# Original: T/C on chr1 at 4123099
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4129266
+rsid = "16840701"
+# Original: A/C on chr1 at 4129266
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4130348
+rsid = "4130940"
+# Original: A/G on chr1 at 4130348
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4130684
+rsid = "4391636"
+# Original: T/T on chr1 at 4130684
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4132222
+rsid = "12093951"
+# Original: C/C on chr1 at 4132222
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4140030
+rsid = "4436359"
+# Original: A/A on chr1 at 4140030
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4145615
+rsid = "10915421"
+# Original: T/C on chr1 at 4145615
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4146028
+rsid = "10915423"
+# Original: C/C on chr1 at 4146028
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4152715
+rsid = "4462110"
+# Original: A/A on chr1 at 4152715
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4152928
+rsid = "4481820"
+# Original: C/C on chr1 at 4152928
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4153087
+rsid = "6676961"
+# Original: G/G on chr1 at 4153087
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4158955
+rsid = "10915428"
+# Original: T/T on chr1 at 4158955
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4160904
+rsid = "7523426"
+# Original: G/G on chr1 at 4160904
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4165198
+rsid = "12073797"
+# Original: G/G on chr1 at 4165198
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4168066
+rsid = "7542313"
+# Original: G/G on chr1 at 4168066
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4170048
+rsid = "12077262"
+# Original: C/C on chr1 at 4170048
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4170178
+rsid = "12032575"
+# Original: G/G on chr1 at 4170178
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4170249
+rsid = "7548756"
+# Original: A/A on chr1 at 4170249
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4171786
+rsid = "10492944"
+# Original: C/C on chr1 at 4171786
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4173841
+rsid = "10492945"
+# Original: A/A on chr1 at 4173841
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4174116
+rsid = "10915434"
+# Original: T/T on chr1 at 4174116
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4176106
+rsid = "6670920"
+# Original: C/C on chr1 at 4176106
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4177898
+rsid = "16840802"
+# Original: G/G on chr1 at 4177898
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4180842
+rsid = "12040805"
+# Original: T/T on chr1 at 4180842
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4183258
+rsid = "10915438"
+# Original: G/G on chr1 at 4183258
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4185126
+rsid = "10753368"
+# Original: G/G on chr1 at 4185126
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4186309
+rsid = "6426389"
+# Original: T/C on chr1 at 4186309
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4187952
+rsid = "4654487"
+# Original: T/C on chr1 at 4187952
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 4190685
+rsid = "4282783"
+# Original: T/G on chr1 at 4190685
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4194597
+rsid = "4131506"
+# Original: A/C on chr1 at 4194597
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4197035
+rsid = "6702633"
+# Original: 0/0 on chr1 at 4197035
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4197642
+rsid = "10915445"
+# Original: A/G on chr1 at 4197642
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4198701
+rsid = "4654490"
+# Original: C/C on chr1 at 4198701
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4200837
+rsid = "11808881"
+# Original: G/G on chr1 at 4200837
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4201349
+rsid = "16840838"
+# Original: G/G on chr1 at 4201349
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4201815
+rsid = "4654492"
+# Original: T/C on chr1 at 4201815
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4202818
+rsid = "7542208"
+# Original: G/G on chr1 at 4202818
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4206210
+rsid = "9426471"
+# Original: T/C on chr1 at 4206210
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4208542
+rsid = "7539733"
+# Original: T/C on chr1 at 4208542
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4210402
+rsid = "6683453"
+# Original: A/G on chr1 at 4210402
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4210455
+rsid = "9426473"
+# Original: A/G on chr1 at 4210455
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4212493
+rsid = "16840866"
+# Original: G/G on chr1 at 4212493
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4216165
+rsid = "9988443"
+# Original: A/G on chr1 at 4216165
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4221599
+rsid = "4614226"
+# Original: T/C on chr1 at 4221599
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4227320
+rsid = "16840873"
+# Original: A/A on chr1 at 4227320
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4227464
+rsid = "12123330"
+# Original: T/C on chr1 at 4227464
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4227634
+rsid = "4468133"
+# Original: G/G on chr1 at 4227634
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4230463
+rsid = "10915459"
+# Original: T/T on chr1 at 4230463
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4231201
+rsid = "12074880"
+# Original: T/T on chr1 at 4231201
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4231757
+rsid = "6688343"
+# Original: T/C on chr1 at 4231757
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4231843
+rsid = "6680706"
+# Original: 0/0 on chr1 at 4231843
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4232794
+rsid = "11583685"
+# Original: T/T on chr1 at 4232794
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4233810
+rsid = "6695203"
+# Original: T/C on chr1 at 4233810
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4234792
+rsid = "12743431"
+# Original: A/G on chr1 at 4234792
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4236982
+rsid = "4233262"
+# Original: T/T on chr1 at 4236982
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4240178
+rsid = "4233264"
+# Original: C/C on chr1 at 4240178
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4250933
+rsid = "11808641"
+# Original: A/A on chr1 at 4250933
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4260418
+rsid = "6667065"
+# Original: A/G on chr1 at 4260418
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4263063
+rsid = "4654510"
+# Original: G/G on chr1 at 4263063
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4263519
+rsid = "10158783"
+# Original: G/G on chr1 at 4263519
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4263677
+rsid = "6687268"
+# Original: T/C on chr1 at 4263677
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4263997
+rsid = "4654512"
+# Original: A/G on chr1 at 4263997
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4267089
+rsid = "16840901"
+# Original: T/T on chr1 at 4267089
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4269491
+rsid = "6426402"
+# Original: T/T on chr1 at 4269491
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4271526
+rsid = "12022636"
+# Original: C/C on chr1 at 4271526
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4271915
+rsid = "7553814"
+# Original: G/G on chr1 at 4271915
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4276903
+rsid = "10915478"
+# Original: C/C on chr1 at 4276903
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4281160
+rsid = "10799216"
+# Original: G/G on chr1 at 4281160
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4281458
+rsid = "4654424"
+# Original: A/A on chr1 at 4281458
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4282786
+rsid = "11579829"
+# Original: C/C on chr1 at 4282786
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4283315
+rsid = "2132177"
+# Original: A/A on chr1 at 4283315
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4284659
+rsid = "903540"
+# Original: C/C on chr1 at 4284659
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4284919
+rsid = "7528938"
+# Original: T/C on chr1 at 4284919
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4288803
+rsid = "10915480"
+# Original: A/G on chr1 at 4288803
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4289045
+rsid = "10753374"
+# Original: G/G on chr1 at 4289045
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4289899
+rsid = "10799218"
+# Original: C/C on chr1 at 4289899
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4292038
+rsid = "7534558"
+# Original: T/C on chr1 at 4292038
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4293892
+rsid = "12071761"
+# Original: G/G on chr1 at 4293892
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4294000
+rsid = "4512614"
+# Original: A/G on chr1 at 4294000
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4295304
+rsid = "12132422"
+# Original: A/G on chr1 at 4295304
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4299727
+rsid = "7517989"
+# Original: G/G on chr1 at 4299727
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4309953
+rsid = "6679489"
+# Original: A/G on chr1 at 4309953
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4312205
+rsid = "1908490"
+# Original: T/C on chr1 at 4312205
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4314177
+rsid = "16841022"
+# Original: G/G on chr1 at 4314177
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4315429
+rsid = "12086930"
+# Original: A/A on chr1 at 4315429
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4316784
+rsid = "964715"
+# Original: T/C on chr1 at 4316784
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4321467
+rsid = "10915489"
+# Original: A/A on chr1 at 4321467
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4322086
+rsid = "16841063"
+# Original: C/C on chr1 at 4322086
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4327635
+rsid = "2101576"
+# Original: T/C on chr1 at 4327635
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4328074
+rsid = "12087250"
+# Original: C/C on chr1 at 4328074
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4328476
+rsid = "10915494"
+# Original: C/C on chr1 at 4328476
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4330201
+rsid = "17407762"
+# Original: G/G on chr1 at 4330201
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4330287
+rsid = "6677984"
+# Original: A/G on chr1 at 4330287
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4335893
+rsid = "903541"
+# Original: A/G on chr1 at 4335893
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4341843
+rsid = "1390136"
+# Original: C/C on chr1 at 4341843
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4342604
+rsid = "1495244"
+# Original: G/G on chr1 at 4342604
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4343581
+rsid = "16838549"
+# Original: G/G on chr1 at 4343581
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4351888
+rsid = "16838560"
+# Original: T/T on chr1 at 4351888
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4352710
+rsid = "16838561"
+# Original: T/T on chr1 at 4352710
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4355593
+rsid = "2029490"
+# Original: A/G on chr1 at 4355593
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4359166
+rsid = "12562995"
+# Original: G/G on chr1 at 4359166
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4364226
+rsid = "693734"
+# Original: T/T on chr1 at 4364226
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 4365471
+rsid = "351625"
+# Original: T/G on chr1 at 4365471
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4366890
+rsid = "351623"
+# Original: T/C on chr1 at 4366890
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4367323
+rsid = "1490413"
+# Original: A/G on chr1 at 4367323
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4367389
+rsid = "16838591"
+# Original: A/G on chr1 at 4367389
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4367810
+rsid = "17448695"
+# Original: C/C on chr1 at 4367810
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4367922
+rsid = "1817914"
+# Original: T/C on chr1 at 4367922
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4367980
+rsid = "2934983"
+# Original: A/G on chr1 at 4367980
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4368026
+rsid = "1817913"
+# Original: A/A on chr1 at 4368026
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4368271
+rsid = "10915508"
+# Original: A/G on chr1 at 4368271
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4368473
+rsid = "11581089"
+# Original: A/G on chr1 at 4368473
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4368819
+rsid = "351619"
+# Original: A/G on chr1 at 4368819
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4370074
+rsid = "1495239"
+# Original: C/C on chr1 at 4370074
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4370385
+rsid = "351615"
+# Original: A/A on chr1 at 4370385
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4370489
+rsid = "12073612"
+# Original: A/G on chr1 at 4370489
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4371949
+rsid = "12132314"
+# Original: C/C on chr1 at 4371949
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4372470
+rsid = "716214"
+# Original: G/G on chr1 at 4372470
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4372992
+rsid = "1353341"
+# Original: G/G on chr1 at 4372992
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4375859
+rsid = "10915509"
+# Original: A/C on chr1 at 4375859
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4379687
+rsid = "12408012"
+# Original: A/G on chr1 at 4379687
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4380195
+rsid = "1874269"
+# Original: C/C on chr1 at 4380195
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4380518
+rsid = "7418164"
+# Original: A/G on chr1 at 4380518
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4380629
+rsid = "351599"
+# Original: T/C on chr1 at 4380629
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4382789
+rsid = "351605"
+# Original: C/C on chr1 at 4382789
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4382979
+rsid = "13375925"
+# Original: C/C on chr1 at 4382979
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4384056
+rsid = "351606"
+# Original: T/C on chr1 at 4384056
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4384859
+rsid = "351609"
+# Original: C/C on chr1 at 4384859
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4387855
+rsid = "656332"
+# Original: A/G on chr1 at 4387855
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4388885
+rsid = "641473"
+# Original: C/C on chr1 at 4388885
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4389262
+rsid = "639739"
+# Original: A/G on chr1 at 4389262
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4390289
+rsid = "625079"
+# Original: C/C on chr1 at 4390289
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4395812
+rsid = "579387"
+# Original: A/C on chr1 at 4395812
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4397703
+rsid = "685494"
+# Original: A/C on chr1 at 4397703
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4398015
+rsid = "589585"
+# Original: T/C on chr1 at 4398015
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4398996
+rsid = "498795"
+# Original: T/C on chr1 at 4398996
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4401450
+rsid = "11587563"
+# Original: G/G on chr1 at 4401450
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4405998
+rsid = "10799228"
+# Original: G/G on chr1 at 4405998
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4406674
+rsid = "16838763"
+# Original: C/C on chr1 at 4406674
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4409496
+rsid = "600933"
+# Original: C/C on chr1 at 4409496
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4414045
+rsid = "528291"
+# Original: G/G on chr1 at 4414045
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4418164
+rsid = "1531328"
+# Original: A/G on chr1 at 4418164
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4418319
+rsid = "16838790"
+# Original: C/C on chr1 at 4418319
+
+[[dna]]
+allele1 = 1
+allele2 = 4
+chromosome = 1
+position = 4419820
+rsid = "349393"
+# Original: A/C on chr1 at 4419820
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4419997
+rsid = "17410050"
+# Original: C/C on chr1 at 4419997
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4422230
+rsid = "16838800"
+# Original: A/A on chr1 at 4422230
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4423061
+rsid = "6656193"
+# Original: G/G on chr1 at 4423061
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4423272
+rsid = "6666204"
+# Original: C/C on chr1 at 4423272
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4425414
+rsid = "75411"
+# Original: T/C on chr1 at 4425414
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4426085
+rsid = "12404619"
+# Original: C/C on chr1 at 4426085
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4427083
+rsid = "12023786"
+# Original: G/G on chr1 at 4427083
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4429462
+rsid = "483344"
+# Original: G/G on chr1 at 4429462
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4431571
+rsid = "12028738"
+# Original: 0/0 on chr1 at 4431571
+
+[[dna]]
+allele1 = 0
+allele2 = 0
+chromosome = 1
+position = 4434974
+rsid = "661536"
+# Original: 0/0 on chr1 at 4434974
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4437518
+rsid = "11805156"
+# Original: T/T on chr1 at 4437518
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4440749
+rsid = "589870"
+# Original: T/C on chr1 at 4440749
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4441089
+rsid = "1845635"
+# Original: A/G on chr1 at 4441089
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4444706
+rsid = "349413"
+# Original: A/A on chr1 at 4444706
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 4446996
+rsid = "7418714"
+# Original: T/G on chr1 at 4446996
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4448702
+rsid = "747778"
+# Original: C/C on chr1 at 4448702
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4456133
+rsid = "10915522"
+# Original: G/G on chr1 at 4456133
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4456277
+rsid = "7521665"
+# Original: G/G on chr1 at 4456277
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4457844
+rsid = "10915523"
+# Original: T/T on chr1 at 4457844
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4459689
+rsid = "6679220"
+# Original: T/T on chr1 at 4459689
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4462460
+rsid = "349400"
+# Original: G/G on chr1 at 4462460
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 4463585
+rsid = "349401"
+# Original: T/G on chr1 at 4463585
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4468747
+rsid = "12047204"
+# Original: C/C on chr1 at 4468747
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4468884
+rsid = "547923"
+# Original: A/A on chr1 at 4468884
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4471374
+rsid = "10915528"
+# Original: T/C on chr1 at 4471374
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4473263
+rsid = "2926481"
+# Original: A/A on chr1 at 4473263
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4475633
+rsid = "7522080"
+# Original: T/T on chr1 at 4475633
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4478442
+rsid = "12120157"
+# Original: A/G on chr1 at 4478442
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4481215
+rsid = "4654432"
+# Original: C/C on chr1 at 4481215
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4488779
+rsid = "12029910"
+# Original: A/A on chr1 at 4488779
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4488979
+rsid = "6658372"
+# Original: A/G on chr1 at 4488979
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4489398
+rsid = "6678792"
+# Original: T/T on chr1 at 4489398
+
+[[dna]]
+allele1 = 2
+allele2 = 3
+chromosome = 1
+position = 4491460
+rsid = "10915535"
+# Original: T/G on chr1 at 4491460
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4493215
+rsid = "1556691"
+# Original: A/G on chr1 at 4493215
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4495287
+rsid = "7546628"
+# Original: A/G on chr1 at 4495287
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4495678
+rsid = "1591426"
+# Original: T/T on chr1 at 4495678
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4496256
+rsid = "1762814"
+# Original: T/T on chr1 at 4496256
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4496659
+rsid = "1674877"
+# Original: C/C on chr1 at 4496659
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4497217
+rsid = "1674879"
+# Original: C/C on chr1 at 4497217
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4500436
+rsid = "12731060"
+# Original: C/C on chr1 at 4500436
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4501911
+rsid = "12128230"
+# Original: C/C on chr1 at 4501911
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4502198
+rsid = "780574"
+# Original: G/G on chr1 at 4502198
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4503725
+rsid = "780581"
+# Original: C/C on chr1 at 4503725
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4504094
+rsid = "706144"
+# Original: G/G on chr1 at 4504094
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4505966
+rsid = "780587"
+# Original: C/C on chr1 at 4505966
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4507743
+rsid = "780593"
+# Original: T/T on chr1 at 4507743
+
+[[dna]]
+allele1 = 4
+allele2 = 4
+chromosome = 1
+position = 4510840
+rsid = "705685"
+# Original: C/C on chr1 at 4510840
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4512105
+rsid = "780598"
+# Original: G/G on chr1 at 4512105
+
+[[dna]]
+allele1 = 3
+allele2 = 3
+chromosome = 1
+position = 4518202
+rsid = "666152"
+# Original: G/G on chr1 at 4518202
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4529544
+rsid = "10915545"
+# Original: T/C on chr1 at 4529544
+
+[[dna]]
+allele1 = 1
+allele2 = 3
+chromosome = 1
+position = 4534321
+rsid = "10047182"
+# Original: A/G on chr1 at 4534321
+
+[[dna]]
+allele1 = 2
+allele2 = 4
+chromosome = 1
+position = 4534350
+rsid = "12143782"
+# Original: T/C on chr1 at 4534350
+
+[[dna]]
+allele1 = 1
+allele2 = 1
+chromosome = 1
+position = 4541390
+rsid = "11799990"
+# Original: A/A on chr1 at 4541390
+
+[[dna]]
+allele1 = 2
+allele2 = 2
+chromosome = 1
+position = 4541425
+rsid = "6426418"
+# Original: T/T on chr1 at 4541425
+
